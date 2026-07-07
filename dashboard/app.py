@@ -77,7 +77,7 @@ if page == "Executive Overview":
     """)
 
     fig = px.bar(df_hospital, x="hospital", y="receita", title="Receita por Hospital")
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
 
 
 elif page == "Financeiro":
@@ -98,10 +98,10 @@ elif page == "Financeiro":
         GROUP BY dh.hospital, dc.convenio
     """)
 
-    st.dataframe(df, use_container_width=True)
+    st.dataframe(df, width="stretch")
 
     fig = px.bar(df, x="hospital", y="custo_total", color="convenio", title="Custo Total por Hospital e Convênio")
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
 
 
 elif page == "Assistencial":
@@ -120,10 +120,10 @@ elif page == "Assistencial":
         ORDER BY atendimentos DESC
     """)
 
-    st.dataframe(df, use_container_width=True)
+    st.dataframe(df, width="stretch")
 
     fig = px.bar(df.head(20), x="especialidade_medica", y="atendimentos", color="cid", title="Atendimentos por Especialidade e CID")
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
 
 
 elif page == "Farmácia":
@@ -141,10 +141,10 @@ elif page == "Farmácia":
         ORDER BY custo_medicamentos DESC
     """)
 
-    st.dataframe(df, use_container_width=True)
+    st.dataframe(df, width="stretch")
 
     fig = px.bar(df, x="medicamento_principal", y="custo_medicamentos", color="status_estoque_medicamentos", title="Custo de Medicamentos por Estoque")
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
 
 
 elif page == "Centro Cirúrgico":
@@ -163,10 +163,10 @@ elif page == "Centro Cirúrgico":
         ORDER BY custo_cirurgias DESC
     """)
 
-    st.dataframe(df, use_container_width=True)
+    st.dataframe(df, width="stretch")
 
     fig = px.bar(df, x="procedimento", y="custo_cirurgias", color="hospital", title="Custos Cirúrgicos por Procedimento")
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
 
 
 elif page == "Readmissão":
@@ -184,10 +184,10 @@ elif page == "Readmissão":
         ORDER BY taxa_readmissao DESC
     """)
 
-    st.dataframe(df, use_container_width=True)
+    st.dataframe(df, width="stretch")
 
     fig = px.bar(df, x="hospital", y="taxa_readmissao", color="convenio", title="Taxa de Readmissão por Hospital e Convênio")
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
 
 
 elif page == "Data Quality":
@@ -207,5 +207,5 @@ elif page == "Data Quality":
             "nulos": silver.isnull().sum().values,
             "tipo": [str(t) for t in silver.dtypes.values],
         }),
-        use_container_width=True,
+        width="stretch",
     )
