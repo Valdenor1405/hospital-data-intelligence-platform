@@ -1,76 +1,368 @@
-# Engenharia de Dados e IA na Saúde Hospitalar
+<div align="center">
 
-Projeto completo para LinkedIn e GitHub simulando um ambiente hospitalar data-driven, com geração de dados, pipeline ETL, banco SQL, modelo de Machine Learning e dashboard BI.
+# 🏥 Hospital Data Intelligence Platform
 
-## Objetivo
+### Enterprise Data Engineering • Analytics • AI • MLOps
 
-Demonstrar como Engenharia de Dados, Inteligência Artificial e Analytics podem transformar dados hospitalares em indicadores estratégicos para melhorar gestão, reduzir custos operacionais e apoiar decisões clínicas.
+[![Python](https://img.shields.io/badge/Python-3.13-blue.svg)]()
+[![FastAPI](https://img.shields.io/badge/FastAPI-Enterprise-green.svg)]()
+[![DuckDB](https://img.shields.io/badge/DuckDB-Analytics-orange.svg)]()
+[![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red.svg)]()
+[![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)]()
+[![GitHub Actions](https://img.shields.io/badge/CI-CD-success.svg)]()
+[![Data Warehouse](https://img.shields.io/badge/Data-Warehouse-purple.svg)]()
+[![Lakehouse](https://img.shields.io/badge/Lakehouse-Bronze%20Silver%20Gold-gold.svg)]()
 
-> Projeto educacional. Os dados são sintéticos e não representam pacientes reais.
+---
 
-## Arquitetura
+## Enterprise Healthcare Data Engineering Platform
+
+Modern healthcare data platform that simulates a large hospital network using modern Data Engineering, Analytics, Data Warehouse, APIs, Executive Dashboards and Machine Learning concepts.
+
+Designed to demonstrate enterprise-grade architecture for recruiters, hiring managers and technical interviews.
+
+</div>
+
+---
+
+# Architecture
 
 ```text
-Sistemas Hospitalares / IoT / UTI / Laboratório
-        ↓
-Ingestão de dados CSV
-        ↓
-ETL com Python + Pandas
-        ↓
-Banco SQLite + Camada Analytics
-        ↓
-Machine Learning: previsão de risco de readmissão hospitalar
-        ↓
-Dashboard Streamlit + Relatórios
+                           Hospital Data Intelligence Platform
+
+             Hospital Systems (Synthetic Data Generator)
+                               │
+                               ▼
+                        RAW DATA LAYER
+                               │
+                               ▼
+                      BRONZE INGESTION
+                               │
+                               ▼
+                       SILVER PROCESSING
+                               │
+                               ▼
+                      DATA QUALITY LAYER
+                               │
+                               ▼
+                          GOLD KPIs
+                               │
+                               ▼
+                  ENTERPRISE DATA WAREHOUSE
+                               │
+                               ▼
+                          DuckDB Analytics
+                               │
+                 ┌─────────────┴─────────────┐
+                 ▼                           ▼
+             FastAPI API              Executive Dashboard
 ```
 
-## Principais entregas
+---
 
-- Dataset hospitalar sintético com prontuário, exames, UTI, sinais vitais, custos e estoque.
-- Pipeline ETL com tratamento, padronização e criação de indicadores.
-- Banco de dados SQLite simulando um Data Warehouse local.
-- Modelo de Machine Learning para prever risco de readmissão em até 30 dias.
-- Dashboard BI com KPIs hospitalares, ocupação, custos, risco clínico e alertas.
-- Notebook explicativo passo a passo para portfólio.
+# Tech Stack
 
-## Como executar
+| Category | Technologies |
+|-----------|--------------|
+| Language | Python |
+| API | FastAPI |
+| Dashboard | Streamlit |
+| Analytics | DuckDB |
+| Data Processing | Pandas |
+| Visualization | Plotly |
+| Testing | Pytest |
+| Containerization | Docker |
+| CI/CD | GitHub Actions |
+
+---
+
+# Data Lakehouse
+
+The project follows the Medallion Architecture.
+
+```
+RAW
+   │
+   ▼
+BRONZE
+   │
+   ▼
+SILVER
+   │
+   ▼
+DATA QUALITY
+   │
+   ▼
+GOLD
+   │
+   ▼
+ENTERPRISE DATA WAREHOUSE
+```
+
+---
+
+# Enterprise Data Warehouse
+
+## Dimensions
+
+- DimPaciente
+- DimHospital
+- DimTempo
+- DimMedico
+- DimConvenio
+- DimCID
+- DimMedicamento
+- DimProcedimento
+- DimLeito
+
+## Facts
+
+- FatoInternacao
+- FatoCirurgia
+- FatoExame
+- FatoFinanceiro
+- FatoFarmacia
+- FatoReadmissao
+
+---
+
+# Project Structure
+
+```
+hospital-data-intelligence-platform/
+
+├── dashboard/
+├── docs/
+├── data/
+│   ├── raw/
+│   ├── bronze/
+│   ├── silver/
+│   ├── gold/
+│   └── warehouse/
+│
+├── src/
+│   ├── ingestion/
+│   ├── processing/
+│   ├── quality/
+│   ├── transformations/
+│   └── api/
+│
+├── tests/
+├── reports/
+├── configs/
+├── models/
+└── run_pipeline.py
+```
+
+---
+
+# Data Pipeline
+
+The complete pipeline performs:
+
+- Synthetic Hospital Data Generation
+- Bronze Ingestion
+- Silver Transformation
+- Data Quality Validation
+- Gold KPI Generation
+- Enterprise Data Warehouse
+- DuckDB Loading
+- API Exposure
+- Executive Dashboard
+
+---
+
+# Features
+
+✅ Enterprise Lakehouse
+
+✅ Data Quality
+
+✅ Enterprise Data Warehouse
+
+✅ DuckDB Analytical Database
+
+✅ FastAPI REST API
+
+✅ Interactive Dashboard
+
+✅ Automated Tests
+
+✅ Docker Support
+
+✅ GitHub Actions
+
+---
+
+# Dashboard Modules
+
+- Executive Overview
+- Finance
+- Clinical Analytics
+- Pharmacy
+- Surgery Center
+- Readmission
+- Data Quality
+
+---
+
+# Machine Learning
+
+Current features
+
+- Readmission prediction
+- Hospital KPIs
+- Data Analytics
+
+Planned
+
+- MLflow
+- SHAP
+- Feature Store
+- Model Registry
+- Drift Monitoring
+
+---
+
+# How to Run
+
+Clone repository
 
 ```bash
-conda create -n saude-dados-ia python=3.11 -y
-conda activate saude-dados-ia
+git clone https://github.com/Valdenor1405/hospital-data-intelligence-platform.git
+```
+
+Install dependencies
+
+```bash
 pip install -r requirements.txt
-python src/01_generate_data.py
-python src/02_etl_pipeline.py
-python src/03_train_model.py
+```
+
+Execute pipeline
+
+```bash
+python run_pipeline.py
+```
+
+Start API
+
+```bash
+python -m uvicorn src.api.main:app --reload
+```
+
+Swagger
+
+```
+http://localhost:8000/docs
+```
+
+Dashboard
+
+```bash
 streamlit run dashboard/app.py
 ```
 
-Ou abra o notebook:
+---
+
+# Tests
 
 ```bash
-jupyter notebook notebooks/projeto_saude_hospitalar_data_engineering_ia.ipynb
+python -m pytest -v
 ```
 
-## Resultado esperado
+---
 
-O projeto gera automaticamente:
+# Project Roadmap
 
-- `data/raw/hospital_raw.csv`
-- `data/processed/hospital_analytics.csv`
-- `data/processed/hospital_dw.sqlite`
-- `models/modelo_readmissao.pkl`
-- gráficos em `reports/figures/`
+## ✅ Version 1.0
 
-## Tecnologias utilizadas
+- Lakehouse
+- Data Warehouse
+- DuckDB
+- Dashboard
+- API
+- Data Quality
 
-Python, Pandas, NumPy, SQLite, Scikit-learn, Matplotlib, Streamlit, Plotly e Joblib.
+---
 
-## Sugestão de postagem LinkedIn
+## 🚧 Version 2.0
 
-Criei um projeto completo de Engenharia de Dados + IA aplicado à saúde hospitalar. O objetivo foi simular como hospitais podem transformar dados de prontuários, UTI, exames, custos e monitoramento de pacientes em inteligência operacional e preditiva.
+- PostgreSQL
+- SQLAlchemy
+- Alembic
+- Enterprise Dashboard
 
-O projeto contém pipeline ETL, banco SQL, modelo de Machine Learning, dashboard BI e documentação para GitHub.
+---
 
-Dados bem estruturados não apenas geram relatórios. Eles ajudam a salvar vidas.
+## 🚧 Version 3.0
 
-#SaudeDigital #EngenhariaDeDados #InteligenciaArtificial #MachineLearning #DataEngineering #Healthcare #Analytics #BusinessIntelligence #Python #ETL #LGPD
+- MLflow
+- SHAP
+- Feature Store
+- Model Registry
+
+---
+
+## 🚧 Version 4.0
+
+- Apache Airflow
+- Kafka
+- Prometheus
+- Grafana
+
+---
+
+## 🚧 Version 5.0
+
+- Azure
+- Databricks
+- Terraform
+- CI/CD Enterprise
+
+---
+
+# Repository Statistics
+
+Current Architecture
+
+✔ Enterprise Data Engineering
+
+✔ Lakehouse Architecture
+
+✔ Enterprise Data Warehouse
+
+✔ Analytics Database
+
+✔ FastAPI
+
+✔ Streamlit
+
+✔ Docker
+
+✔ GitHub Actions
+
+---
+
+# Author
+
+**Valdenor Filho**
+
+Data Engineering • AI • Analytics • DevOps
+
+GitHub
+
+https://github.com/Valdenor1405
+
+LinkedIn
+
+(https://www.linkedin.com/in/valdenor-aquino/)
+
+---
+
+# License
+
+MIT License
+
+---
+
+⭐ If you like this project, consider giving it a Star.
