@@ -1,0 +1,4848 @@
+id_medico,especialidade_medica,sk_medico
+9322,Oncologia,1
+9792,Cardiologia,2
+8629,UTI,3
+7184,Neurologia,4
+3790,Oncologia,5
+6592,Oncologia,6
+8554,Ortopedia,7
+5282,Ortopedia,8
+6423,Cirurgia Geral,9
+3869,Clínica Médica,10
+6600,Clínica Médica,11
+6854,UTI,12
+7655,Neurologia,13
+1876,UTI,14
+8404,Oncologia,15
+3849,Ortopedia,16
+6726,Ortopedia,17
+2571,Clínica Médica,18
+6486,Cardiologia,19
+2542,Neurologia,20
+5268,Neurologia,21
+7190,Pediatria,22
+7132,Pediatria,23
+5000,Pediatria,24
+8239,Oncologia,25
+8002,Cardiologia,26
+8350,UTI,27
+7190,Cirurgia Geral,28
+9172,Ortopedia,29
+3472,UTI,30
+6342,Clínica Médica,31
+5234,Cardiologia,32
+2908,Ortopedia,33
+6984,Cirurgia Geral,34
+3645,Neurologia,35
+7166,Neurologia,36
+4030,UTI,37
+2205,Pediatria,38
+5524,Cardiologia,39
+6954,Cardiologia,40
+4695,Clínica Médica,41
+9173,Oncologia,42
+9041,Ortopedia,43
+2333,Pediatria,44
+2252,Oncologia,45
+6387,Neurologia,46
+8693,Neurologia,47
+8206,Pediatria,48
+9056,Pediatria,49
+3736,Cardiologia,50
+1954,UTI,51
+3139,Pediatria,52
+6343,Cardiologia,53
+9073,Neurologia,54
+1038,UTI,55
+2980,UTI,56
+2875,Clínica Médica,57
+4762,Oncologia,58
+9619,Ortopedia,59
+8179,Ortopedia,60
+8005,UTI,61
+8904,Cirurgia Geral,62
+8062,Oncologia,63
+1619,Oncologia,64
+4719,Oncologia,65
+2667,Pediatria,66
+8117,Ortopedia,67
+5431,Ortopedia,68
+8052,UTI,69
+6699,Clínica Médica,70
+8421,Neurologia,71
+1707,Clínica Médica,72
+4374,Oncologia,73
+3785,Cirurgia Geral,74
+9785,Oncologia,75
+5917,Cardiologia,76
+7430,Neurologia,77
+4292,Cirurgia Geral,78
+7356,Pediatria,79
+3672,Cardiologia,80
+5940,Pediatria,81
+2246,Ortopedia,82
+6946,Oncologia,83
+9789,Pediatria,84
+7279,Pediatria,85
+4489,UTI,86
+7256,Ortopedia,87
+3757,Pediatria,88
+5283,Clínica Médica,89
+1689,UTI,90
+8875,Cardiologia,91
+9535,UTI,92
+8264,Cirurgia Geral,93
+4525,Ortopedia,94
+6108,Clínica Médica,95
+3504,Ortopedia,96
+7049,Cardiologia,97
+8418,Neurologia,98
+6075,Ortopedia,99
+9259,Pediatria,100
+5577,Oncologia,101
+5005,Clínica Médica,102
+4828,Ortopedia,103
+8922,Cardiologia,104
+8980,Cardiologia,105
+2141,UTI,106
+6744,UTI,107
+1785,Pediatria,108
+1358,Cirurgia Geral,109
+9458,Pediatria,110
+5494,Neurologia,111
+2137,Oncologia,112
+9068,Clínica Médica,113
+8547,Pediatria,114
+1182,Clínica Médica,115
+6086,Neurologia,116
+7091,Cirurgia Geral,117
+2124,Cirurgia Geral,118
+8170,Pediatria,119
+9088,Clínica Médica,120
+5063,Cirurgia Geral,121
+4276,Clínica Médica,122
+6102,Cardiologia,123
+3645,Pediatria,124
+9548,Oncologia,125
+7236,Clínica Médica,126
+7689,Cirurgia Geral,127
+5200,Oncologia,128
+7696,Oncologia,129
+8997,Clínica Médica,130
+7680,Oncologia,131
+3800,Clínica Médica,132
+2903,Ortopedia,133
+9125,Ortopedia,134
+1139,Cardiologia,135
+8196,Cardiologia,136
+7309,Cirurgia Geral,137
+3305,Neurologia,138
+9367,Oncologia,139
+6166,Ortopedia,140
+1602,Cardiologia,141
+1062,Clínica Médica,142
+1802,Clínica Médica,143
+3594,Cirurgia Geral,144
+5384,Ortopedia,145
+7318,Neurologia,146
+9442,Ortopedia,147
+7801,Oncologia,148
+3890,Oncologia,149
+3618,Pediatria,150
+4801,Neurologia,151
+4940,UTI,152
+3735,Pediatria,153
+4839,UTI,154
+3827,Neurologia,155
+2678,Cirurgia Geral,156
+7055,UTI,157
+4805,Cardiologia,158
+2942,UTI,159
+8522,Cirurgia Geral,160
+8124,Clínica Médica,161
+4258,Clínica Médica,162
+5820,Pediatria,163
+2724,Oncologia,164
+2717,Neurologia,165
+9100,UTI,166
+1307,Clínica Médica,167
+9728,Oncologia,168
+7511,Oncologia,169
+2987,Ortopedia,170
+6898,Pediatria,171
+5117,Cardiologia,172
+8982,Oncologia,173
+6184,Oncologia,174
+4575,Cardiologia,175
+7009,Oncologia,176
+9790,Cardiologia,177
+6578,Pediatria,178
+5922,Clínica Médica,179
+6555,UTI,180
+7382,Neurologia,181
+6953,Neurologia,182
+7553,Ortopedia,183
+9376,Cardiologia,184
+9718,Pediatria,185
+8697,UTI,186
+7010,Cardiologia,187
+7754,Cirurgia Geral,188
+7828,Cardiologia,189
+3657,Clínica Médica,190
+9572,Ortopedia,191
+1946,Clínica Médica,192
+8680,UTI,193
+6185,Neurologia,194
+2184,Clínica Médica,195
+6882,Cirurgia Geral,196
+1588,Clínica Médica,197
+6831,Cardiologia,198
+8235,UTI,199
+7893,Ortopedia,200
+7671,Pediatria,201
+5530,Ortopedia,202
+8164,UTI,203
+5623,Ortopedia,204
+1515,Clínica Médica,205
+6730,Clínica Médica,206
+1731,Neurologia,207
+2167,UTI,208
+6308,UTI,209
+7004,Cardiologia,210
+7947,Neurologia,211
+5435,Ortopedia,212
+6953,UTI,213
+3741,Cirurgia Geral,214
+2867,UTI,215
+5368,Ortopedia,216
+1534,Oncologia,217
+8264,Pediatria,218
+4644,Cirurgia Geral,219
+7257,Oncologia,220
+4001,Cirurgia Geral,221
+3905,Neurologia,222
+2212,Oncologia,223
+6680,Pediatria,224
+9269,Oncologia,225
+1534,Pediatria,226
+4840,Pediatria,227
+6127,Pediatria,228
+6682,Pediatria,229
+9646,Cirurgia Geral,230
+7353,Cirurgia Geral,231
+6092,Clínica Médica,232
+5516,Cardiologia,233
+1877,UTI,234
+4985,Clínica Médica,235
+3911,UTI,236
+7617,Clínica Médica,237
+7349,Ortopedia,238
+8892,Neurologia,239
+4443,Clínica Médica,240
+7102,Cirurgia Geral,241
+8715,Pediatria,242
+8378,Pediatria,243
+8367,Oncologia,244
+6003,Clínica Médica,245
+6495,Clínica Médica,246
+6904,Cardiologia,247
+6065,Ortopedia,248
+6676,Oncologia,249
+1821,Oncologia,250
+8314,Pediatria,251
+3658,Cardiologia,252
+4052,UTI,253
+9677,Cirurgia Geral,254
+5468,Cirurgia Geral,255
+1066,Neurologia,256
+6577,UTI,257
+4787,UTI,258
+8633,Oncologia,259
+8396,Pediatria,260
+4932,Cardiologia,261
+7379,Cardiologia,262
+9363,Pediatria,263
+3032,Neurologia,264
+7870,Oncologia,265
+6738,Pediatria,266
+5869,Oncologia,267
+5710,Ortopedia,268
+3024,UTI,269
+1555,Cirurgia Geral,270
+2400,Ortopedia,271
+8957,Clínica Médica,272
+8135,Cirurgia Geral,273
+5700,Cirurgia Geral,274
+8906,Ortopedia,275
+4253,Neurologia,276
+4870,Cirurgia Geral,277
+4345,Ortopedia,278
+5466,Neurologia,279
+8450,Neurologia,280
+4308,Clínica Médica,281
+2030,Cirurgia Geral,282
+6193,Pediatria,283
+2888,UTI,284
+6127,Oncologia,285
+1064,Cardiologia,286
+4306,Ortopedia,287
+1462,Pediatria,288
+4190,Clínica Médica,289
+5009,Cirurgia Geral,290
+3268,Cirurgia Geral,291
+5607,Ortopedia,292
+3739,Clínica Médica,293
+3276,Cirurgia Geral,294
+1614,Ortopedia,295
+9168,Clínica Médica,296
+2755,Neurologia,297
+4412,Cardiologia,298
+9444,Oncologia,299
+2079,Clínica Médica,300
+5566,Oncologia,301
+2308,Ortopedia,302
+6684,Clínica Médica,303
+9572,Clínica Médica,304
+5795,Neurologia,305
+8727,UTI,306
+9974,Cardiologia,307
+7499,Oncologia,308
+7772,Neurologia,309
+5663,Cardiologia,310
+3024,Oncologia,311
+3759,Clínica Médica,312
+7979,Clínica Médica,313
+8325,Cardiologia,314
+5083,UTI,315
+5076,Ortopedia,316
+7265,Cirurgia Geral,317
+8689,Pediatria,318
+5616,Oncologia,319
+2344,Neurologia,320
+2789,Oncologia,321
+9283,UTI,322
+9160,UTI,323
+5018,UTI,324
+4160,Ortopedia,325
+2785,Oncologia,326
+3107,Neurologia,327
+3580,Oncologia,328
+1037,Clínica Médica,329
+2975,Pediatria,330
+5183,Oncologia,331
+2845,Ortopedia,332
+7823,Ortopedia,333
+4872,UTI,334
+4019,Clínica Médica,335
+5608,Pediatria,336
+2782,Pediatria,337
+7860,Cirurgia Geral,338
+1774,Pediatria,339
+2523,Cardiologia,340
+3515,Cardiologia,341
+6591,Clínica Médica,342
+6914,UTI,343
+6664,Cardiologia,344
+7182,UTI,345
+9055,Ortopedia,346
+4148,Neurologia,347
+8032,Cirurgia Geral,348
+1502,UTI,349
+6977,Pediatria,350
+2340,Neurologia,351
+6220,Neurologia,352
+6558,UTI,353
+7032,Pediatria,354
+5023,UTI,355
+1799,Clínica Médica,356
+3978,UTI,357
+7747,Ortopedia,358
+6740,Cirurgia Geral,359
+5761,Cirurgia Geral,360
+2864,Cirurgia Geral,361
+8416,Neurologia,362
+6353,Neurologia,363
+2806,Pediatria,364
+7071,UTI,365
+4397,Oncologia,366
+3575,Oncologia,367
+9533,Cardiologia,368
+5677,Ortopedia,369
+1562,Ortopedia,370
+5997,Pediatria,371
+2973,Cirurgia Geral,372
+6828,Ortopedia,373
+3507,Oncologia,374
+8692,Clínica Médica,375
+4897,Cirurgia Geral,376
+3217,Cardiologia,377
+3962,Oncologia,378
+3274,UTI,379
+9495,Cirurgia Geral,380
+8876,Cirurgia Geral,381
+4389,Clínica Médica,382
+8644,Cirurgia Geral,383
+5267,Oncologia,384
+1784,Cardiologia,385
+7676,Ortopedia,386
+4823,Cardiologia,387
+8043,Pediatria,388
+4331,Ortopedia,389
+9125,Cirurgia Geral,390
+8391,Cardiologia,391
+3322,UTI,392
+6002,Ortopedia,393
+1107,Oncologia,394
+6040,Ortopedia,395
+3808,UTI,396
+5799,Cardiologia,397
+8635,Pediatria,398
+2446,UTI,399
+8795,Pediatria,400
+2629,Oncologia,401
+3063,Clínica Médica,402
+2126,Oncologia,403
+3340,Oncologia,404
+7101,Ortopedia,405
+2614,Cirurgia Geral,406
+8570,Ortopedia,407
+3311,UTI,408
+1703,Oncologia,409
+1376,UTI,410
+6445,Cirurgia Geral,411
+9621,Cardiologia,412
+7931,Ortopedia,413
+3538,Pediatria,414
+4723,Cardiologia,415
+6821,Pediatria,416
+1881,Clínica Médica,417
+3306,Ortopedia,418
+8485,Clínica Médica,419
+9287,Cardiologia,420
+8119,Oncologia,421
+1143,UTI,422
+7249,Clínica Médica,423
+9804,Oncologia,424
+7412,Oncologia,425
+8541,Clínica Médica,426
+1857,Ortopedia,427
+4414,UTI,428
+1613,Pediatria,429
+1824,Clínica Médica,430
+4136,Oncologia,431
+7208,Neurologia,432
+7804,Clínica Médica,433
+2817,Oncologia,434
+1279,Clínica Médica,435
+2922,Oncologia,436
+1909,Neurologia,437
+8562,UTI,438
+2645,Neurologia,439
+2359,Cirurgia Geral,440
+4591,Cardiologia,441
+7792,Cardiologia,442
+2562,Ortopedia,443
+2856,Oncologia,444
+8798,UTI,445
+9656,UTI,446
+7652,Clínica Médica,447
+8008,Ortopedia,448
+6399,Clínica Médica,449
+7118,Neurologia,450
+6375,Neurologia,451
+8189,Neurologia,452
+9772,UTI,453
+6025,Neurologia,454
+7786,Clínica Médica,455
+5502,Oncologia,456
+1362,UTI,457
+6051,Clínica Médica,458
+1078,Neurologia,459
+2548,Neurologia,460
+6422,Cirurgia Geral,461
+7370,Pediatria,462
+3433,Clínica Médica,463
+2263,Clínica Médica,464
+3318,Oncologia,465
+4892,Oncologia,466
+8664,UTI,467
+1440,UTI,468
+3685,Clínica Médica,469
+5270,Clínica Médica,470
+3170,Ortopedia,471
+5204,Neurologia,472
+9701,Cardiologia,473
+4546,Oncologia,474
+6700,Pediatria,475
+8666,Oncologia,476
+4257,Cardiologia,477
+8081,Ortopedia,478
+8501,Cardiologia,479
+3478,UTI,480
+4657,Cirurgia Geral,481
+4667,Cirurgia Geral,482
+4807,Cardiologia,483
+3840,Neurologia,484
+6648,Clínica Médica,485
+2620,Cardiologia,486
+3093,Cardiologia,487
+8407,Ortopedia,488
+8321,Pediatria,489
+6894,Cirurgia Geral,490
+6327,Neurologia,491
+1157,UTI,492
+5039,Ortopedia,493
+7175,Oncologia,494
+4992,Ortopedia,495
+5087,Clínica Médica,496
+8538,Ortopedia,497
+8945,Clínica Médica,498
+7106,UTI,499
+3630,Oncologia,500
+4107,Ortopedia,501
+1578,Neurologia,502
+2099,Oncologia,503
+6224,Pediatria,504
+9191,Neurologia,505
+3493,UTI,506
+7817,Cardiologia,507
+3348,Oncologia,508
+2024,UTI,509
+5029,Oncologia,510
+8681,UTI,511
+7385,Cardiologia,512
+7037,Cardiologia,513
+1386,Oncologia,514
+7359,Oncologia,515
+7153,Cardiologia,516
+8803,Cardiologia,517
+4684,UTI,518
+4788,Cirurgia Geral,519
+8400,Cardiologia,520
+1284,Cirurgia Geral,521
+5150,Neurologia,522
+9296,Oncologia,523
+5251,Ortopedia,524
+8015,Ortopedia,525
+3584,Pediatria,526
+5681,Ortopedia,527
+8810,Cardiologia,528
+3596,Cardiologia,529
+3829,Pediatria,530
+2139,Cirurgia Geral,531
+9366,Cirurgia Geral,532
+7553,Cardiologia,533
+8899,Ortopedia,534
+3137,Neurologia,535
+7521,UTI,536
+9107,Cardiologia,537
+5880,Clínica Médica,538
+2085,Ortopedia,539
+6444,Cirurgia Geral,540
+7468,Ortopedia,541
+8943,Ortopedia,542
+9568,Clínica Médica,543
+3555,Ortopedia,544
+9962,Ortopedia,545
+9818,Clínica Médica,546
+6969,Ortopedia,547
+3737,Oncologia,548
+8017,Pediatria,549
+6489,Clínica Médica,550
+4120,Cirurgia Geral,551
+2104,Clínica Médica,552
+3951,Oncologia,553
+7661,UTI,554
+6441,Neurologia,555
+1098,Pediatria,556
+9327,Oncologia,557
+6852,Clínica Médica,558
+5234,Neurologia,559
+9098,Cirurgia Geral,560
+3758,Cirurgia Geral,561
+1751,Pediatria,562
+9433,Clínica Médica,563
+4716,Oncologia,564
+3959,Ortopedia,565
+8082,Ortopedia,566
+3964,Pediatria,567
+2736,Cirurgia Geral,568
+8167,Ortopedia,569
+9239,Oncologia,570
+4317,Cardiologia,571
+6015,UTI,572
+2897,UTI,573
+9491,Oncologia,574
+8749,Oncologia,575
+2345,Ortopedia,576
+9583,Clínica Médica,577
+5758,Cirurgia Geral,578
+9066,Pediatria,579
+2007,Cardiologia,580
+7030,Cardiologia,581
+3522,Ortopedia,582
+9464,Cirurgia Geral,583
+6656,Clínica Médica,584
+6776,Ortopedia,585
+3155,Cirurgia Geral,586
+3808,Cirurgia Geral,587
+4187,Neurologia,588
+3669,Ortopedia,589
+4613,Neurologia,590
+1027,Cardiologia,591
+7348,Pediatria,592
+4143,Oncologia,593
+6413,Neurologia,594
+8300,Clínica Médica,595
+3690,Cardiologia,596
+6129,Clínica Médica,597
+7844,Cardiologia,598
+5126,Pediatria,599
+5231,Oncologia,600
+6091,UTI,601
+6520,Pediatria,602
+2372,Neurologia,603
+8592,Clínica Médica,604
+7644,Ortopedia,605
+8714,Cardiologia,606
+4405,Neurologia,607
+9000,Oncologia,608
+8227,Ortopedia,609
+1739,Cirurgia Geral,610
+9928,Pediatria,611
+7799,UTI,612
+4593,UTI,613
+6352,Oncologia,614
+1846,Clínica Médica,615
+7837,Neurologia,616
+1294,Cirurgia Geral,617
+8621,Cirurgia Geral,618
+6757,Oncologia,619
+9289,Ortopedia,620
+9195,Cardiologia,621
+5507,Oncologia,622
+9428,Cardiologia,623
+8921,UTI,624
+8802,Neurologia,625
+9973,Ortopedia,626
+3369,UTI,627
+5222,Cardiologia,628
+2394,Pediatria,629
+8769,Neurologia,630
+2637,Ortopedia,631
+2688,Oncologia,632
+3677,Ortopedia,633
+1576,Clínica Médica,634
+8875,Clínica Médica,635
+2647,UTI,636
+1977,Ortopedia,637
+1673,Neurologia,638
+2253,Cirurgia Geral,639
+1277,Clínica Médica,640
+5089,UTI,641
+7674,Ortopedia,642
+1415,Pediatria,643
+2634,UTI,644
+7621,Clínica Médica,645
+6582,Cardiologia,646
+9103,Clínica Médica,647
+1697,Ortopedia,648
+3155,Clínica Médica,649
+2624,Pediatria,650
+9626,Pediatria,651
+1584,Pediatria,652
+8702,Pediatria,653
+9896,Cardiologia,654
+6363,Cirurgia Geral,655
+3156,Neurologia,656
+7270,Neurologia,657
+3146,Cirurgia Geral,658
+1189,Cardiologia,659
+2548,UTI,660
+5635,Cirurgia Geral,661
+6446,Pediatria,662
+4036,UTI,663
+7279,Cardiologia,664
+3966,Oncologia,665
+5172,Cardiologia,666
+1068,Neurologia,667
+2144,Cardiologia,668
+3927,Cardiologia,669
+9939,Cirurgia Geral,670
+4763,Clínica Médica,671
+8750,Cirurgia Geral,672
+2717,Oncologia,673
+2535,Oncologia,674
+9204,Pediatria,675
+5606,Clínica Médica,676
+2436,Oncologia,677
+9464,Ortopedia,678
+6719,UTI,679
+2031,Oncologia,680
+4618,Ortopedia,681
+8859,UTI,682
+6668,Pediatria,683
+4314,UTI,684
+1123,Cardiologia,685
+5318,Pediatria,686
+2039,Neurologia,687
+9787,Cardiologia,688
+5490,Oncologia,689
+7084,UTI,690
+7384,Clínica Médica,691
+9294,Cirurgia Geral,692
+3373,UTI,693
+9551,UTI,694
+9831,Pediatria,695
+7210,UTI,696
+3215,Oncologia,697
+8717,Cardiologia,698
+9152,UTI,699
+4288,Cardiologia,700
+7719,Oncologia,701
+9140,Pediatria,702
+5753,Pediatria,703
+1946,UTI,704
+3548,Ortopedia,705
+2982,Neurologia,706
+8855,Cardiologia,707
+7668,Oncologia,708
+6973,Clínica Médica,709
+3256,Neurologia,710
+3480,Cardiologia,711
+8733,Cardiologia,712
+7841,UTI,713
+1416,Neurologia,714
+5314,Ortopedia,715
+7443,Neurologia,716
+8568,Pediatria,717
+6587,UTI,718
+1364,Ortopedia,719
+9123,Cirurgia Geral,720
+6333,UTI,721
+7749,Cardiologia,722
+1557,Cardiologia,723
+5385,Neurologia,724
+5489,UTI,725
+1805,Clínica Médica,726
+2722,Cirurgia Geral,727
+2263,Ortopedia,728
+2378,UTI,729
+1877,Neurologia,730
+2739,Pediatria,731
+9819,Neurologia,732
+8884,Ortopedia,733
+4477,Pediatria,734
+6149,Neurologia,735
+2955,Neurologia,736
+9760,Cardiologia,737
+9580,UTI,738
+5350,Cardiologia,739
+8053,Neurologia,740
+2041,Neurologia,741
+7152,Pediatria,742
+5031,Cardiologia,743
+6207,Cardiologia,744
+7569,Cardiologia,745
+3151,Pediatria,746
+7485,UTI,747
+8116,Cirurgia Geral,748
+4134,Cardiologia,749
+6599,Cardiologia,750
+1429,Clínica Médica,751
+9376,Pediatria,752
+2417,Neurologia,753
+8663,UTI,754
+6099,Cardiologia,755
+2041,Ortopedia,756
+6351,UTI,757
+6273,Oncologia,758
+4464,Ortopedia,759
+7123,Clínica Médica,760
+9400,Neurologia,761
+3415,Ortopedia,762
+3078,UTI,763
+5191,UTI,764
+4713,Cirurgia Geral,765
+4770,Pediatria,766
+7153,Neurologia,767
+8167,Oncologia,768
+1469,Oncologia,769
+9949,Cardiologia,770
+3270,UTI,771
+7628,UTI,772
+2753,Neurologia,773
+4415,Clínica Médica,774
+5754,Oncologia,775
+8826,Ortopedia,776
+9428,Cirurgia Geral,777
+7685,Ortopedia,778
+4526,Ortopedia,779
+1828,Clínica Médica,780
+2389,UTI,781
+7602,Clínica Médica,782
+9335,Oncologia,783
+5452,Neurologia,784
+8131,Cardiologia,785
+2623,Oncologia,786
+1224,Pediatria,787
+4894,Cirurgia Geral,788
+7764,Ortopedia,789
+4581,Neurologia,790
+9964,Cardiologia,791
+7606,Pediatria,792
+1975,UTI,793
+7356,Cirurgia Geral,794
+1830,Ortopedia,795
+6213,Oncologia,796
+1088,Cardiologia,797
+3543,Ortopedia,798
+6087,Neurologia,799
+1321,Neurologia,800
+2235,Neurologia,801
+5003,UTI,802
+9373,Cardiologia,803
+4133,Pediatria,804
+1421,Clínica Médica,805
+9024,Ortopedia,806
+1327,UTI,807
+3721,Cardiologia,808
+6474,Cirurgia Geral,809
+8056,Neurologia,810
+8934,Ortopedia,811
+7034,Ortopedia,812
+1495,Neurologia,813
+8059,Neurologia,814
+8108,Ortopedia,815
+2872,Cirurgia Geral,816
+4612,Cirurgia Geral,817
+3023,Cirurgia Geral,818
+2316,Pediatria,819
+1717,Pediatria,820
+4860,Clínica Médica,821
+6852,Pediatria,822
+7054,Pediatria,823
+7842,Cirurgia Geral,824
+7697,Pediatria,825
+5586,Pediatria,826
+2040,Clínica Médica,827
+6474,Cardiologia,828
+1998,Oncologia,829
+1424,Cirurgia Geral,830
+6659,Clínica Médica,831
+9351,Pediatria,832
+9157,Ortopedia,833
+5434,Neurologia,834
+5012,Pediatria,835
+4372,Ortopedia,836
+1372,Ortopedia,837
+2554,Cirurgia Geral,838
+7238,Ortopedia,839
+7699,Cirurgia Geral,840
+3038,Pediatria,841
+4117,Clínica Médica,842
+2593,Ortopedia,843
+3166,Clínica Médica,844
+4658,Cirurgia Geral,845
+8556,Cirurgia Geral,846
+3500,Neurologia,847
+7460,Cirurgia Geral,848
+9096,Neurologia,849
+8747,Ortopedia,850
+9704,Cirurgia Geral,851
+9646,Clínica Médica,852
+1188,Neurologia,853
+7716,Cardiologia,854
+8050,Cardiologia,855
+4686,Cirurgia Geral,856
+5723,Ortopedia,857
+3060,Neurologia,858
+3559,Pediatria,859
+4786,Cirurgia Geral,860
+1753,Cardiologia,861
+3566,Clínica Médica,862
+4963,Clínica Médica,863
+7413,Neurologia,864
+9294,Neurologia,865
+1658,Neurologia,866
+9218,UTI,867
+6782,UTI,868
+9086,Cardiologia,869
+1368,Clínica Médica,870
+8288,UTI,871
+8711,Cirurgia Geral,872
+1126,Ortopedia,873
+9863,Pediatria,874
+1931,UTI,875
+1202,Neurologia,876
+6280,Cirurgia Geral,877
+8816,Cirurgia Geral,878
+5001,Ortopedia,879
+3058,Neurologia,880
+6538,UTI,881
+5690,Neurologia,882
+5568,Ortopedia,883
+2694,Clínica Médica,884
+3339,Pediatria,885
+4720,Pediatria,886
+8929,Cirurgia Geral,887
+6768,Neurologia,888
+6402,Oncologia,889
+9710,UTI,890
+8726,Cirurgia Geral,891
+4222,Cirurgia Geral,892
+7329,Ortopedia,893
+7935,Neurologia,894
+6156,Ortopedia,895
+6968,Cirurgia Geral,896
+4343,Neurologia,897
+2067,Oncologia,898
+9432,UTI,899
+9058,Oncologia,900
+4256,Cirurgia Geral,901
+6507,Clínica Médica,902
+7030,Pediatria,903
+7208,Oncologia,904
+8695,Oncologia,905
+8521,Cirurgia Geral,906
+8121,Oncologia,907
+1990,Oncologia,908
+4978,Ortopedia,909
+3718,Clínica Médica,910
+1026,Clínica Médica,911
+4266,Clínica Médica,912
+6669,Clínica Médica,913
+6091,Clínica Médica,914
+1506,Oncologia,915
+6555,Pediatria,916
+6310,Neurologia,917
+7886,Oncologia,918
+4210,UTI,919
+2167,Clínica Médica,920
+9030,Neurologia,921
+1016,UTI,922
+6117,Cardiologia,923
+2756,Oncologia,924
+2016,Ortopedia,925
+8224,Cirurgia Geral,926
+1269,Cirurgia Geral,927
+4447,Cardiologia,928
+5451,Cardiologia,929
+1087,Cirurgia Geral,930
+7720,UTI,931
+9963,Clínica Médica,932
+8084,Neurologia,933
+2391,Pediatria,934
+3798,Oncologia,935
+5604,Cirurgia Geral,936
+4962,Cirurgia Geral,937
+3147,Cirurgia Geral,938
+7833,Cirurgia Geral,939
+1195,Oncologia,940
+9287,Oncologia,941
+1066,Pediatria,942
+3264,Neurologia,943
+5953,Neurologia,944
+6673,Pediatria,945
+1912,Cirurgia Geral,946
+3407,UTI,947
+5848,Cirurgia Geral,948
+2145,Neurologia,949
+4400,Pediatria,950
+8129,Pediatria,951
+1027,Oncologia,952
+6021,Cirurgia Geral,953
+1227,Neurologia,954
+4116,Cardiologia,955
+2206,Cirurgia Geral,956
+3134,Neurologia,957
+3376,Oncologia,958
+4402,Pediatria,959
+4120,Ortopedia,960
+3844,Pediatria,961
+7422,Clínica Médica,962
+2787,Clínica Médica,963
+6860,Ortopedia,964
+5258,Oncologia,965
+8198,Neurologia,966
+3796,Cardiologia,967
+1359,Ortopedia,968
+2009,Clínica Médica,969
+5137,Cirurgia Geral,970
+8553,Cirurgia Geral,971
+5835,Clínica Médica,972
+4228,UTI,973
+3533,Ortopedia,974
+8850,Clínica Médica,975
+5121,Oncologia,976
+9152,Cardiologia,977
+7872,UTI,978
+6547,Clínica Médica,979
+8171,Oncologia,980
+4714,Cardiologia,981
+6955,Oncologia,982
+8529,Oncologia,983
+6658,Clínica Médica,984
+3770,Clínica Médica,985
+6409,Neurologia,986
+9459,Cardiologia,987
+5862,Clínica Médica,988
+6840,Oncologia,989
+3707,UTI,990
+6605,Cardiologia,991
+5716,Cirurgia Geral,992
+4427,Pediatria,993
+7499,Pediatria,994
+4432,Cirurgia Geral,995
+4856,UTI,996
+4630,UTI,997
+4874,Oncologia,998
+5610,Cirurgia Geral,999
+4357,Cirurgia Geral,1000
+3687,UTI,1001
+1720,Pediatria,1002
+5572,Pediatria,1003
+2081,Pediatria,1004
+3713,UTI,1005
+8083,Clínica Médica,1006
+6807,Pediatria,1007
+9818,Neurologia,1008
+5936,Pediatria,1009
+6393,Oncologia,1010
+6517,Cardiologia,1011
+9209,Cardiologia,1012
+7291,Cardiologia,1013
+2063,UTI,1014
+5678,Cardiologia,1015
+7956,Cirurgia Geral,1016
+5720,Clínica Médica,1017
+6275,Cirurgia Geral,1018
+1778,Clínica Médica,1019
+3711,Neurologia,1020
+6552,Clínica Médica,1021
+1617,Cirurgia Geral,1022
+6748,Ortopedia,1023
+9310,Pediatria,1024
+7586,Cardiologia,1025
+4448,Cirurgia Geral,1026
+1531,UTI,1027
+6695,Clínica Médica,1028
+5656,Oncologia,1029
+5861,Neurologia,1030
+3914,Neurologia,1031
+4159,Oncologia,1032
+5977,Neurologia,1033
+3205,Clínica Médica,1034
+5501,Ortopedia,1035
+4456,Pediatria,1036
+3804,Neurologia,1037
+4887,UTI,1038
+4730,Neurologia,1039
+2658,Pediatria,1040
+5561,UTI,1041
+4801,Cardiologia,1042
+6615,UTI,1043
+1899,Pediatria,1044
+2494,Pediatria,1045
+2351,Pediatria,1046
+1895,Neurologia,1047
+9199,Clínica Médica,1048
+7467,Clínica Médica,1049
+7797,Neurologia,1050
+3926,Neurologia,1051
+2361,Ortopedia,1052
+1698,Cardiologia,1053
+5860,Pediatria,1054
+2845,Cardiologia,1055
+8241,Cardiologia,1056
+8834,Cardiologia,1057
+1715,Cardiologia,1058
+5669,Oncologia,1059
+8317,Oncologia,1060
+3422,Oncologia,1061
+9840,UTI,1062
+8362,Clínica Médica,1063
+3876,Ortopedia,1064
+7397,Clínica Médica,1065
+7486,Ortopedia,1066
+2371,Ortopedia,1067
+2366,Cardiologia,1068
+5876,UTI,1069
+8100,Cirurgia Geral,1070
+1627,Pediatria,1071
+2813,Ortopedia,1072
+1184,Oncologia,1073
+1294,Pediatria,1074
+5747,Pediatria,1075
+2317,Ortopedia,1076
+8068,Ortopedia,1077
+4305,Cirurgia Geral,1078
+7684,Clínica Médica,1079
+2420,Neurologia,1080
+8014,Ortopedia,1081
+1984,Clínica Médica,1082
+1063,Oncologia,1083
+8051,Neurologia,1084
+3056,Pediatria,1085
+7564,Clínica Médica,1086
+2855,Ortopedia,1087
+7140,Ortopedia,1088
+7594,Clínica Médica,1089
+7864,Neurologia,1090
+2066,Cirurgia Geral,1091
+4557,Cirurgia Geral,1092
+4662,Oncologia,1093
+8737,Clínica Médica,1094
+7010,Cirurgia Geral,1095
+4315,Pediatria,1096
+8300,Cardiologia,1097
+4972,Clínica Médica,1098
+5438,UTI,1099
+1956,Cirurgia Geral,1100
+6551,Oncologia,1101
+2969,Clínica Médica,1102
+5085,Clínica Médica,1103
+6764,Oncologia,1104
+2613,UTI,1105
+7199,Oncologia,1106
+7115,UTI,1107
+5981,Clínica Médica,1108
+7876,Neurologia,1109
+8004,Oncologia,1110
+2026,Pediatria,1111
+1010,Cardiologia,1112
+5469,Neurologia,1113
+3955,Cardiologia,1114
+8007,Neurologia,1115
+6557,UTI,1116
+1402,Clínica Médica,1117
+8825,Cardiologia,1118
+7665,Cirurgia Geral,1119
+7520,Pediatria,1120
+5483,Pediatria,1121
+8511,Pediatria,1122
+5971,Oncologia,1123
+3628,UTI,1124
+9221,Cardiologia,1125
+1121,Cardiologia,1126
+4191,UTI,1127
+8577,Clínica Médica,1128
+1833,UTI,1129
+1840,UTI,1130
+6915,Neurologia,1131
+2225,Ortopedia,1132
+6916,UTI,1133
+7449,Clínica Médica,1134
+8469,Cirurgia Geral,1135
+3253,Ortopedia,1136
+6928,Cardiologia,1137
+6350,Oncologia,1138
+7090,Pediatria,1139
+7243,Oncologia,1140
+4584,Oncologia,1141
+8618,Oncologia,1142
+4100,Clínica Médica,1143
+9824,UTI,1144
+2041,Cirurgia Geral,1145
+6971,UTI,1146
+7533,Ortopedia,1147
+3310,Clínica Médica,1148
+3588,Clínica Médica,1149
+9116,Pediatria,1150
+2728,Cirurgia Geral,1151
+1652,Cardiologia,1152
+3074,Neurologia,1153
+3272,Cirurgia Geral,1154
+3592,Ortopedia,1155
+3346,Pediatria,1156
+3281,Oncologia,1157
+7562,Ortopedia,1158
+4898,Ortopedia,1159
+4951,Pediatria,1160
+4659,Clínica Médica,1161
+4938,Neurologia,1162
+8670,Clínica Médica,1163
+9925,Clínica Médica,1164
+8088,Ortopedia,1165
+2354,Neurologia,1166
+4251,Neurologia,1167
+9403,UTI,1168
+1507,UTI,1169
+3480,Ortopedia,1170
+9260,Oncologia,1171
+9447,Neurologia,1172
+1459,Oncologia,1173
+9946,Oncologia,1174
+4079,Clínica Médica,1175
+9391,UTI,1176
+2713,Clínica Médica,1177
+6696,Pediatria,1178
+9475,Cirurgia Geral,1179
+2446,Ortopedia,1180
+9764,Ortopedia,1181
+9754,UTI,1182
+8581,Oncologia,1183
+8207,Neurologia,1184
+5771,Pediatria,1185
+8235,Clínica Médica,1186
+2116,Cardiologia,1187
+4530,Cirurgia Geral,1188
+8077,Ortopedia,1189
+4481,Cardiologia,1190
+8532,Oncologia,1191
+5999,Cirurgia Geral,1192
+5612,Clínica Médica,1193
+6174,UTI,1194
+7399,Cirurgia Geral,1195
+7842,Clínica Médica,1196
+2809,Neurologia,1197
+6321,UTI,1198
+5974,Neurologia,1199
+3361,Clínica Médica,1200
+7751,Cirurgia Geral,1201
+9890,Ortopedia,1202
+5191,Oncologia,1203
+4779,Oncologia,1204
+9307,Cirurgia Geral,1205
+6421,Clínica Médica,1206
+3525,Oncologia,1207
+7914,Ortopedia,1208
+7822,Neurologia,1209
+1807,Pediatria,1210
+2022,Cardiologia,1211
+8057,Cirurgia Geral,1212
+6869,Cirurgia Geral,1213
+4321,Cardiologia,1214
+7086,Clínica Médica,1215
+4344,Clínica Médica,1216
+4414,Pediatria,1217
+9516,Clínica Médica,1218
+6140,Cardiologia,1219
+7833,Pediatria,1220
+6338,Ortopedia,1221
+6340,Oncologia,1222
+2546,UTI,1223
+2087,Cardiologia,1224
+7328,Neurologia,1225
+3390,UTI,1226
+5581,Cirurgia Geral,1227
+4417,Neurologia,1228
+1774,Cardiologia,1229
+8778,Neurologia,1230
+3856,Oncologia,1231
+2363,Ortopedia,1232
+6148,Oncologia,1233
+2199,Clínica Médica,1234
+7334,UTI,1235
+6351,Cardiologia,1236
+3153,Cardiologia,1237
+3096,Pediatria,1238
+9686,UTI,1239
+1566,Neurologia,1240
+5768,Pediatria,1241
+2028,Clínica Médica,1242
+3087,Cardiologia,1243
+4518,Ortopedia,1244
+9303,Clínica Médica,1245
+9047,Cirurgia Geral,1246
+7979,Oncologia,1247
+1377,Cardiologia,1248
+5608,Cirurgia Geral,1249
+4901,Cirurgia Geral,1250
+4522,Pediatria,1251
+1605,Oncologia,1252
+4558,Cardiologia,1253
+2601,Pediatria,1254
+5946,Pediatria,1255
+7746,Ortopedia,1256
+1567,Neurologia,1257
+4622,Pediatria,1258
+3285,Cardiologia,1259
+4754,UTI,1260
+1741,Pediatria,1261
+1091,Oncologia,1262
+6631,Ortopedia,1263
+7466,Clínica Médica,1264
+2004,Cirurgia Geral,1265
+6073,Clínica Médica,1266
+1919,Oncologia,1267
+1025,Pediatria,1268
+7900,Pediatria,1269
+6448,Neurologia,1270
+9240,Clínica Médica,1271
+7561,UTI,1272
+8865,Cirurgia Geral,1273
+9574,Ortopedia,1274
+1869,Pediatria,1275
+4350,Cirurgia Geral,1276
+4883,Cirurgia Geral,1277
+9267,Cardiologia,1278
+5149,Neurologia,1279
+3105,Oncologia,1280
+2337,Oncologia,1281
+3622,Oncologia,1282
+9892,Cirurgia Geral,1283
+7584,Neurologia,1284
+8824,UTI,1285
+7363,Pediatria,1286
+1550,Clínica Médica,1287
+8275,Cirurgia Geral,1288
+1412,Clínica Médica,1289
+2064,Oncologia,1290
+5285,Oncologia,1291
+6882,Clínica Médica,1292
+9501,Clínica Médica,1293
+5827,Oncologia,1294
+6784,Cardiologia,1295
+7006,Cardiologia,1296
+9122,Pediatria,1297
+3147,Clínica Médica,1298
+3462,Pediatria,1299
+2055,Clínica Médica,1300
+3162,Clínica Médica,1301
+1576,Oncologia,1302
+5230,Ortopedia,1303
+9810,Cirurgia Geral,1304
+9106,Cirurgia Geral,1305
+5117,Clínica Médica,1306
+1090,Ortopedia,1307
+5056,Pediatria,1308
+2135,Ortopedia,1309
+4414,Cirurgia Geral,1310
+6325,Ortopedia,1311
+5262,Pediatria,1312
+2078,Cardiologia,1313
+2961,Oncologia,1314
+2176,Cardiologia,1315
+3743,Ortopedia,1316
+7499,Cardiologia,1317
+4062,Clínica Médica,1318
+9152,Clínica Médica,1319
+3062,Cardiologia,1320
+5466,Clínica Médica,1321
+2717,Clínica Médica,1322
+9842,Cardiologia,1323
+7463,Cardiologia,1324
+6730,Neurologia,1325
+8811,Cardiologia,1326
+2072,Clínica Médica,1327
+8509,Pediatria,1328
+6262,Clínica Médica,1329
+2992,Oncologia,1330
+8695,Cirurgia Geral,1331
+7868,Clínica Médica,1332
+8238,Ortopedia,1333
+2049,Oncologia,1334
+9212,Pediatria,1335
+6673,UTI,1336
+5533,Cirurgia Geral,1337
+5921,Oncologia,1338
+6356,Oncologia,1339
+2043,UTI,1340
+4636,UTI,1341
+8086,Pediatria,1342
+5203,Cirurgia Geral,1343
+7492,Neurologia,1344
+8742,Oncologia,1345
+9524,Cardiologia,1346
+9672,Pediatria,1347
+5038,Pediatria,1348
+2757,Pediatria,1349
+9538,UTI,1350
+2350,Oncologia,1351
+9140,Cardiologia,1352
+8778,Cardiologia,1353
+2378,Pediatria,1354
+7350,Oncologia,1355
+9052,UTI,1356
+1401,Pediatria,1357
+3199,UTI,1358
+2203,Cirurgia Geral,1359
+7504,Cardiologia,1360
+1237,Cirurgia Geral,1361
+3394,Cardiologia,1362
+6826,Oncologia,1363
+9695,Cirurgia Geral,1364
+8491,Cardiologia,1365
+1299,Cardiologia,1366
+2117,UTI,1367
+9684,Clínica Médica,1368
+4507,Cardiologia,1369
+6194,Cirurgia Geral,1370
+3974,Oncologia,1371
+9804,Cardiologia,1372
+2243,Oncologia,1373
+5204,Clínica Médica,1374
+1201,Pediatria,1375
+4965,Oncologia,1376
+3450,Neurologia,1377
+7035,Clínica Médica,1378
+7758,Ortopedia,1379
+3798,Neurologia,1380
+2225,Cardiologia,1381
+4755,Cardiologia,1382
+5018,Neurologia,1383
+3377,Clínica Médica,1384
+3940,Cirurgia Geral,1385
+9217,Pediatria,1386
+7419,Cardiologia,1387
+2803,Pediatria,1388
+8184,Cirurgia Geral,1389
+1219,UTI,1390
+2605,UTI,1391
+4042,Pediatria,1392
+9374,Cardiologia,1393
+1397,Clínica Médica,1394
+3946,Cirurgia Geral,1395
+8776,Cardiologia,1396
+3154,Cirurgia Geral,1397
+9571,Ortopedia,1398
+4155,Ortopedia,1399
+9998,Neurologia,1400
+3120,Neurologia,1401
+9312,Oncologia,1402
+1894,Neurologia,1403
+2446,Cardiologia,1404
+9491,Neurologia,1405
+7124,Oncologia,1406
+8376,Clínica Médica,1407
+2074,UTI,1408
+7462,Clínica Médica,1409
+5824,Oncologia,1410
+1360,Cirurgia Geral,1411
+2838,Cardiologia,1412
+6007,UTI,1413
+1577,Cirurgia Geral,1414
+2075,Oncologia,1415
+2904,Pediatria,1416
+8720,Oncologia,1417
+6697,Oncologia,1418
+4694,Cirurgia Geral,1419
+9141,Oncologia,1420
+3200,Cirurgia Geral,1421
+1506,Cirurgia Geral,1422
+5785,Neurologia,1423
+4734,Ortopedia,1424
+5208,Clínica Médica,1425
+9785,Clínica Médica,1426
+8061,Ortopedia,1427
+3887,Pediatria,1428
+7033,Cardiologia,1429
+2565,UTI,1430
+3157,Clínica Médica,1431
+1036,Neurologia,1432
+6316,Cirurgia Geral,1433
+9175,Clínica Médica,1434
+8677,UTI,1435
+4905,Cirurgia Geral,1436
+7682,UTI,1437
+3735,Cardiologia,1438
+9822,Clínica Médica,1439
+6004,UTI,1440
+1751,Ortopedia,1441
+9101,UTI,1442
+2455,Ortopedia,1443
+6995,Pediatria,1444
+4114,UTI,1445
+6851,Cardiologia,1446
+1615,Cirurgia Geral,1447
+4650,Pediatria,1448
+9892,Ortopedia,1449
+9342,Oncologia,1450
+8468,Neurologia,1451
+7445,Cardiologia,1452
+4630,Clínica Médica,1453
+2304,Cardiologia,1454
+8782,Cardiologia,1455
+4324,Clínica Médica,1456
+8283,Cirurgia Geral,1457
+6402,UTI,1458
+4739,Cardiologia,1459
+2878,Clínica Médica,1460
+8676,UTI,1461
+6382,UTI,1462
+6603,Pediatria,1463
+8464,Cardiologia,1464
+8960,Neurologia,1465
+9823,Neurologia,1466
+5296,Pediatria,1467
+3697,Pediatria,1468
+7361,Pediatria,1469
+6303,Cardiologia,1470
+8453,UTI,1471
+7186,Cirurgia Geral,1472
+2976,UTI,1473
+5116,Neurologia,1474
+3621,Ortopedia,1475
+4624,Cardiologia,1476
+7292,Oncologia,1477
+8596,Neurologia,1478
+4977,UTI,1479
+2594,Neurologia,1480
+9243,Clínica Médica,1481
+5831,Cirurgia Geral,1482
+1000,Pediatria,1483
+3139,Ortopedia,1484
+1491,Cirurgia Geral,1485
+2959,Oncologia,1486
+2333,Cirurgia Geral,1487
+7694,UTI,1488
+2974,Neurologia,1489
+3337,Neurologia,1490
+9808,Oncologia,1491
+1474,Cardiologia,1492
+2713,Ortopedia,1493
+9582,Neurologia,1494
+9911,Neurologia,1495
+9888,UTI,1496
+3744,Neurologia,1497
+8312,Neurologia,1498
+3833,Neurologia,1499
+1203,UTI,1500
+6046,Cardiologia,1501
+9231,Pediatria,1502
+8789,Cirurgia Geral,1503
+3989,Cardiologia,1504
+4433,Ortopedia,1505
+4858,UTI,1506
+1761,UTI,1507
+6765,Ortopedia,1508
+4976,Pediatria,1509
+3551,Clínica Médica,1510
+3825,Ortopedia,1511
+7508,Pediatria,1512
+5105,Ortopedia,1513
+6753,Neurologia,1514
+1235,Cardiologia,1515
+5003,Cardiologia,1516
+8325,Clínica Médica,1517
+2629,Pediatria,1518
+9508,Neurologia,1519
+2682,Ortopedia,1520
+8653,Cardiologia,1521
+1577,Pediatria,1522
+8956,Ortopedia,1523
+9113,UTI,1524
+5982,Oncologia,1525
+7516,Pediatria,1526
+1625,Ortopedia,1527
+3145,Oncologia,1528
+7734,Clínica Médica,1529
+5589,Oncologia,1530
+8042,Cardiologia,1531
+4066,UTI,1532
+1901,Clínica Médica,1533
+3420,Pediatria,1534
+6361,Neurologia,1535
+4204,Ortopedia,1536
+7392,UTI,1537
+4728,Neurologia,1538
+9431,Neurologia,1539
+7346,Oncologia,1540
+4577,Pediatria,1541
+2593,Oncologia,1542
+9459,Oncologia,1543
+3557,Pediatria,1544
+7941,Cardiologia,1545
+1414,Cirurgia Geral,1546
+3600,UTI,1547
+9441,Clínica Médica,1548
+6958,UTI,1549
+5330,Pediatria,1550
+9147,Clínica Médica,1551
+6235,Clínica Médica,1552
+5452,UTI,1553
+5094,Oncologia,1554
+5247,UTI,1555
+5671,Clínica Médica,1556
+1388,Clínica Médica,1557
+3215,Neurologia,1558
+1427,Neurologia,1559
+9301,Ortopedia,1560
+1655,Cirurgia Geral,1561
+4831,Pediatria,1562
+3793,Ortopedia,1563
+6047,Cirurgia Geral,1564
+9929,Neurologia,1565
+9178,UTI,1566
+8655,Cirurgia Geral,1567
+5677,Cirurgia Geral,1568
+4233,UTI,1569
+7929,Cirurgia Geral,1570
+8138,Oncologia,1571
+6306,UTI,1572
+9447,Cardiologia,1573
+6440,Neurologia,1574
+2943,Clínica Médica,1575
+7360,UTI,1576
+6386,Cardiologia,1577
+8958,Ortopedia,1578
+7351,Clínica Médica,1579
+2446,Neurologia,1580
+6183,Ortopedia,1581
+2474,UTI,1582
+5925,Cardiologia,1583
+1204,Pediatria,1584
+4522,Oncologia,1585
+5647,Clínica Médica,1586
+3209,UTI,1587
+8735,Clínica Médica,1588
+8305,Neurologia,1589
+6063,Cirurgia Geral,1590
+6064,Pediatria,1591
+5963,Pediatria,1592
+7545,Cardiologia,1593
+3392,Clínica Médica,1594
+6200,Pediatria,1595
+4674,Ortopedia,1596
+3304,UTI,1597
+5961,Neurologia,1598
+2770,Ortopedia,1599
+7113,Neurologia,1600
+4048,Oncologia,1601
+3492,Cardiologia,1602
+5544,Pediatria,1603
+3908,Neurologia,1604
+8508,UTI,1605
+4204,Cirurgia Geral,1606
+8524,Cirurgia Geral,1607
+7377,Oncologia,1608
+6679,UTI,1609
+1682,Cirurgia Geral,1610
+1279,UTI,1611
+2565,Neurologia,1612
+1228,Neurologia,1613
+2451,Clínica Médica,1614
+2009,Cirurgia Geral,1615
+5457,Cardiologia,1616
+7395,Clínica Médica,1617
+5896,Oncologia,1618
+1643,Neurologia,1619
+5171,Cardiologia,1620
+7283,Pediatria,1621
+6473,UTI,1622
+5967,Oncologia,1623
+6397,Neurologia,1624
+6371,Neurologia,1625
+8429,Ortopedia,1626
+3725,Cirurgia Geral,1627
+6639,Pediatria,1628
+2930,Cardiologia,1629
+4692,Cardiologia,1630
+6852,Cardiologia,1631
+9190,Oncologia,1632
+8540,Cardiologia,1633
+5779,UTI,1634
+3860,Oncologia,1635
+7905,Oncologia,1636
+1185,UTI,1637
+1283,Neurologia,1638
+7980,Oncologia,1639
+5564,Cirurgia Geral,1640
+8463,Oncologia,1641
+9885,Neurologia,1642
+3689,Clínica Médica,1643
+2790,Ortopedia,1644
+6831,UTI,1645
+2453,Clínica Médica,1646
+5270,Neurologia,1647
+1304,UTI,1648
+1271,Cardiologia,1649
+6262,UTI,1650
+3340,Clínica Médica,1651
+3498,Clínica Médica,1652
+7355,Cardiologia,1653
+4974,Pediatria,1654
+9527,Oncologia,1655
+6697,Ortopedia,1656
+8931,Pediatria,1657
+1259,Oncologia,1658
+5199,Pediatria,1659
+2843,Pediatria,1660
+3156,Oncologia,1661
+4420,Cirurgia Geral,1662
+8636,UTI,1663
+2378,Cirurgia Geral,1664
+1003,Neurologia,1665
+1418,Ortopedia,1666
+9632,Cirurgia Geral,1667
+4503,Pediatria,1668
+6980,Ortopedia,1669
+7683,Cirurgia Geral,1670
+8996,UTI,1671
+6052,Pediatria,1672
+3408,Cirurgia Geral,1673
+1821,Pediatria,1674
+3998,UTI,1675
+5973,Ortopedia,1676
+1005,Cardiologia,1677
+4021,Cirurgia Geral,1678
+6666,Pediatria,1679
+4991,Cardiologia,1680
+5462,Neurologia,1681
+6108,Ortopedia,1682
+4012,Ortopedia,1683
+6174,Clínica Médica,1684
+7088,Pediatria,1685
+4627,Pediatria,1686
+7308,Pediatria,1687
+8791,UTI,1688
+9086,Oncologia,1689
+8334,Cirurgia Geral,1690
+9061,Oncologia,1691
+1735,Clínica Médica,1692
+8723,Pediatria,1693
+2133,Neurologia,1694
+6786,Neurologia,1695
+1453,Pediatria,1696
+5344,Pediatria,1697
+7535,Cardiologia,1698
+7017,Oncologia,1699
+4566,Ortopedia,1700
+5146,Clínica Médica,1701
+3946,Pediatria,1702
+5538,Oncologia,1703
+1739,Oncologia,1704
+2819,Clínica Médica,1705
+6866,Ortopedia,1706
+2904,UTI,1707
+9906,Cirurgia Geral,1708
+5895,Neurologia,1709
+3053,UTI,1710
+9791,Ortopedia,1711
+7093,Clínica Médica,1712
+6707,Ortopedia,1713
+3081,Pediatria,1714
+2215,Pediatria,1715
+8868,Cirurgia Geral,1716
+3373,Cardiologia,1717
+2713,Oncologia,1718
+1677,Ortopedia,1719
+1126,Neurologia,1720
+4277,UTI,1721
+6520,Ortopedia,1722
+8978,Cirurgia Geral,1723
+6708,Pediatria,1724
+8816,UTI,1725
+4065,Oncologia,1726
+7942,Clínica Médica,1727
+4011,Pediatria,1728
+3327,Oncologia,1729
+8036,Pediatria,1730
+4902,Neurologia,1731
+4486,UTI,1732
+2492,Neurologia,1733
+4816,Ortopedia,1734
+8548,Oncologia,1735
+7550,Clínica Médica,1736
+1449,Pediatria,1737
+8551,Neurologia,1738
+8313,Cardiologia,1739
+8684,Pediatria,1740
+2851,Oncologia,1741
+6920,Oncologia,1742
+9399,Neurologia,1743
+6054,Cirurgia Geral,1744
+7240,Clínica Médica,1745
+2810,Pediatria,1746
+2144,Pediatria,1747
+9159,Clínica Médica,1748
+4175,Neurologia,1749
+2948,UTI,1750
+4460,Oncologia,1751
+1034,Cardiologia,1752
+8227,UTI,1753
+2961,Cardiologia,1754
+1202,UTI,1755
+5314,Oncologia,1756
+7944,Cardiologia,1757
+1435,Oncologia,1758
+1490,Cardiologia,1759
+1211,Cardiologia,1760
+3524,Clínica Médica,1761
+4556,Cirurgia Geral,1762
+1284,Oncologia,1763
+6613,Ortopedia,1764
+6505,Pediatria,1765
+4771,Clínica Médica,1766
+8571,Cirurgia Geral,1767
+8408,Cardiologia,1768
+6531,Cardiologia,1769
+7632,Oncologia,1770
+9185,UTI,1771
+4551,Pediatria,1772
+3532,Clínica Médica,1773
+8224,Cardiologia,1774
+9527,Clínica Médica,1775
+7386,Cirurgia Geral,1776
+6981,Cardiologia,1777
+7740,Ortopedia,1778
+6674,UTI,1779
+7712,Oncologia,1780
+6504,Neurologia,1781
+9729,Clínica Médica,1782
+1877,Clínica Médica,1783
+1913,Pediatria,1784
+6036,Cirurgia Geral,1785
+1645,Neurologia,1786
+8777,Oncologia,1787
+7910,Cirurgia Geral,1788
+3996,Oncologia,1789
+9722,Cirurgia Geral,1790
+4393,Neurologia,1791
+9693,Neurologia,1792
+8447,Oncologia,1793
+7918,Oncologia,1794
+9190,Cardiologia,1795
+2455,Clínica Médica,1796
+5749,Clínica Médica,1797
+2500,Ortopedia,1798
+4190,Oncologia,1799
+7906,Cardiologia,1800
+8955,Pediatria,1801
+1111,Cirurgia Geral,1802
+1888,Cardiologia,1803
+9210,Ortopedia,1804
+5193,Oncologia,1805
+1589,Clínica Médica,1806
+4303,UTI,1807
+5376,UTI,1808
+3651,Pediatria,1809
+5767,Oncologia,1810
+2967,Cirurgia Geral,1811
+1350,Cardiologia,1812
+4267,Ortopedia,1813
+4399,UTI,1814
+2617,Clínica Médica,1815
+2329,Cardiologia,1816
+3810,Cardiologia,1817
+8549,Neurologia,1818
+8210,Ortopedia,1819
+3275,Oncologia,1820
+7026,Cardiologia,1821
+1847,Cardiologia,1822
+5436,Pediatria,1823
+3713,Clínica Médica,1824
+5298,Clínica Médica,1825
+1113,Cirurgia Geral,1826
+4727,Neurologia,1827
+3454,Ortopedia,1828
+9343,Oncologia,1829
+7190,Neurologia,1830
+9353,Oncologia,1831
+9734,Oncologia,1832
+9456,Cirurgia Geral,1833
+8904,Oncologia,1834
+3150,Ortopedia,1835
+8923,UTI,1836
+5548,Cardiologia,1837
+3745,Neurologia,1838
+7783,Ortopedia,1839
+5164,Ortopedia,1840
+5383,Cardiologia,1841
+6412,Oncologia,1842
+6431,Cirurgia Geral,1843
+6668,Neurologia,1844
+1237,Pediatria,1845
+8907,Cardiologia,1846
+9147,Cardiologia,1847
+3704,UTI,1848
+8593,UTI,1849
+8953,Cirurgia Geral,1850
+2534,Cirurgia Geral,1851
+8764,Clínica Médica,1852
+3564,UTI,1853
+8764,Pediatria,1854
+9924,Cirurgia Geral,1855
+4904,Pediatria,1856
+1595,Pediatria,1857
+8216,Neurologia,1858
+8742,Cardiologia,1859
+6886,Ortopedia,1860
+7951,Ortopedia,1861
+3086,Neurologia,1862
+7681,Oncologia,1863
+4110,Oncologia,1864
+4355,Cirurgia Geral,1865
+2040,Oncologia,1866
+2793,Cirurgia Geral,1867
+9677,Clínica Médica,1868
+6512,Neurologia,1869
+6628,Cardiologia,1870
+5044,Clínica Médica,1871
+6375,Ortopedia,1872
+2269,Neurologia,1873
+7870,Cirurgia Geral,1874
+7132,UTI,1875
+1892,Ortopedia,1876
+2307,Oncologia,1877
+9211,Oncologia,1878
+1359,Cardiologia,1879
+5252,Oncologia,1880
+8450,Cardiologia,1881
+9647,Cardiologia,1882
+4135,Cardiologia,1883
+9253,Cirurgia Geral,1884
+2896,Pediatria,1885
+9758,Cirurgia Geral,1886
+6772,Cardiologia,1887
+2282,Oncologia,1888
+5850,Clínica Médica,1889
+3169,Ortopedia,1890
+9236,Oncologia,1891
+6492,Ortopedia,1892
+7467,UTI,1893
+7286,Pediatria,1894
+6149,Oncologia,1895
+6632,Oncologia,1896
+2024,Clínica Médica,1897
+8877,Ortopedia,1898
+7364,Clínica Médica,1899
+3426,UTI,1900
+5212,Cirurgia Geral,1901
+2951,Cardiologia,1902
+7452,UTI,1903
+1760,UTI,1904
+4723,Pediatria,1905
+3978,Cardiologia,1906
+9927,Oncologia,1907
+2715,Oncologia,1908
+3336,Clínica Médica,1909
+7978,Oncologia,1910
+8550,Oncologia,1911
+8434,Pediatria,1912
+2892,Ortopedia,1913
+1546,Clínica Médica,1914
+5771,Neurologia,1915
+7907,Neurologia,1916
+1851,Neurologia,1917
+4255,Cirurgia Geral,1918
+5166,Cardiologia,1919
+1613,Cardiologia,1920
+9073,Clínica Médica,1921
+9713,Cardiologia,1922
+8707,Cirurgia Geral,1923
+4454,UTI,1924
+6916,Cirurgia Geral,1925
+5988,Cardiologia,1926
+3660,Oncologia,1927
+4104,UTI,1928
+7911,Cardiologia,1929
+7332,Neurologia,1930
+2268,Neurologia,1931
+6212,Ortopedia,1932
+1421,Neurologia,1933
+2114,Clínica Médica,1934
+6477,Cirurgia Geral,1935
+3171,Neurologia,1936
+3377,Cardiologia,1937
+3251,Ortopedia,1938
+1538,Ortopedia,1939
+7189,Clínica Médica,1940
+2968,Clínica Médica,1941
+7030,UTI,1942
+3366,Oncologia,1943
+1407,Oncologia,1944
+8846,Cirurgia Geral,1945
+8293,Oncologia,1946
+6160,Neurologia,1947
+6390,Pediatria,1948
+1261,UTI,1949
+8542,Clínica Médica,1950
+8502,Pediatria,1951
+5831,Clínica Médica,1952
+2557,Ortopedia,1953
+2749,Neurologia,1954
+2200,UTI,1955
+3620,Cirurgia Geral,1956
+3260,UTI,1957
+6992,Neurologia,1958
+5917,Neurologia,1959
+8355,Clínica Médica,1960
+5044,Oncologia,1961
+9436,Pediatria,1962
+1082,Cardiologia,1963
+3464,Neurologia,1964
+4355,Pediatria,1965
+5887,Cardiologia,1966
+1430,Cirurgia Geral,1967
+6307,Cardiologia,1968
+6228,Ortopedia,1969
+6660,Cardiologia,1970
+5037,Neurologia,1971
+5718,UTI,1972
+8287,Cardiologia,1973
+7459,UTI,1974
+6101,Ortopedia,1975
+9436,Cardiologia,1976
+4995,UTI,1977
+2649,Clínica Médica,1978
+1355,Oncologia,1979
+5158,Oncologia,1980
+8335,UTI,1981
+9015,Cirurgia Geral,1982
+1173,Ortopedia,1983
+9576,Ortopedia,1984
+4912,Neurologia,1985
+8422,Neurologia,1986
+1245,Pediatria,1987
+4209,UTI,1988
+4399,Neurologia,1989
+5482,Pediatria,1990
+7433,Cardiologia,1991
+9279,Pediatria,1992
+2626,Oncologia,1993
+9050,Cardiologia,1994
+1649,Pediatria,1995
+4118,Oncologia,1996
+3134,Clínica Médica,1997
+4333,Oncologia,1998
+5009,Pediatria,1999
+3218,UTI,2000
+5792,Pediatria,2001
+9916,Cirurgia Geral,2002
+5614,Ortopedia,2003
+1152,Cirurgia Geral,2004
+2612,UTI,2005
+7203,Pediatria,2006
+5608,Cardiologia,2007
+9119,Clínica Médica,2008
+4684,Clínica Médica,2009
+3260,Cardiologia,2010
+2777,Oncologia,2011
+9151,Oncologia,2012
+6587,Cirurgia Geral,2013
+4070,Cardiologia,2014
+8555,Cirurgia Geral,2015
+2925,Clínica Médica,2016
+2103,Clínica Médica,2017
+5686,Pediatria,2018
+5575,UTI,2019
+7590,Cirurgia Geral,2020
+6525,Ortopedia,2021
+2975,Neurologia,2022
+6093,Ortopedia,2023
+8361,Cirurgia Geral,2024
+5166,Neurologia,2025
+9860,UTI,2026
+3677,Neurologia,2027
+8719,Ortopedia,2028
+9680,Neurologia,2029
+4562,Pediatria,2030
+4334,Pediatria,2031
+8201,Neurologia,2032
+4332,UTI,2033
+4344,Oncologia,2034
+3963,UTI,2035
+8397,Neurologia,2036
+7828,UTI,2037
+4213,Pediatria,2038
+8895,Ortopedia,2039
+5391,Cirurgia Geral,2040
+9567,Cardiologia,2041
+2911,Pediatria,2042
+9252,Cardiologia,2043
+3993,UTI,2044
+3602,Oncologia,2045
+8455,Oncologia,2046
+4270,Clínica Médica,2047
+3441,Oncologia,2048
+4480,Cirurgia Geral,2049
+3750,Pediatria,2050
+3571,Ortopedia,2051
+2901,Neurologia,2052
+5354,UTI,2053
+2608,Oncologia,2054
+3033,Oncologia,2055
+5311,Cardiologia,2056
+1239,Cirurgia Geral,2057
+3463,Cardiologia,2058
+2026,Cardiologia,2059
+9030,Cirurgia Geral,2060
+7332,UTI,2061
+6732,Cirurgia Geral,2062
+4312,UTI,2063
+3810,Cirurgia Geral,2064
+1603,Oncologia,2065
+4946,Ortopedia,2066
+3265,Oncologia,2067
+5438,Oncologia,2068
+7818,Clínica Médica,2069
+5569,Cirurgia Geral,2070
+4601,Clínica Médica,2071
+7729,Pediatria,2072
+2172,Cardiologia,2073
+2273,Pediatria,2074
+2418,Ortopedia,2075
+3884,Clínica Médica,2076
+1091,Cardiologia,2077
+9941,Ortopedia,2078
+3807,Ortopedia,2079
+6890,Cirurgia Geral,2080
+3746,Cirurgia Geral,2081
+5163,Pediatria,2082
+8362,Ortopedia,2083
+8284,Pediatria,2084
+4415,UTI,2085
+8514,UTI,2086
+7992,UTI,2087
+7213,Pediatria,2088
+3270,Cardiologia,2089
+9381,Neurologia,2090
+5893,Neurologia,2091
+4805,Clínica Médica,2092
+7616,Cirurgia Geral,2093
+3971,Clínica Médica,2094
+5545,UTI,2095
+9820,Clínica Médica,2096
+4821,Cardiologia,2097
+7914,Oncologia,2098
+6705,Cirurgia Geral,2099
+6773,Cardiologia,2100
+1240,Cardiologia,2101
+4067,Pediatria,2102
+5532,Pediatria,2103
+2208,Neurologia,2104
+9803,Pediatria,2105
+3462,Clínica Médica,2106
+1023,Ortopedia,2107
+7952,UTI,2108
+1300,Cirurgia Geral,2109
+9148,Oncologia,2110
+4871,Neurologia,2111
+8208,Cirurgia Geral,2112
+2198,Clínica Médica,2113
+4153,Cirurgia Geral,2114
+4220,Pediatria,2115
+8130,Neurologia,2116
+2309,Pediatria,2117
+1392,Cardiologia,2118
+8379,Cirurgia Geral,2119
+2816,Cardiologia,2120
+1528,Cardiologia,2121
+8283,Oncologia,2122
+3050,Clínica Médica,2123
+6531,Ortopedia,2124
+3894,Neurologia,2125
+6063,Cardiologia,2126
+8448,Pediatria,2127
+3014,Pediatria,2128
+1827,Pediatria,2129
+6067,Pediatria,2130
+6085,Cardiologia,2131
+4422,Cirurgia Geral,2132
+4058,Cirurgia Geral,2133
+5096,UTI,2134
+2190,Oncologia,2135
+1077,Oncologia,2136
+6642,Oncologia,2137
+1013,Cardiologia,2138
+1095,UTI,2139
+7485,Pediatria,2140
+1668,Ortopedia,2141
+3976,Cirurgia Geral,2142
+2992,Neurologia,2143
+9995,Clínica Médica,2144
+6788,UTI,2145
+8934,Neurologia,2146
+3653,Oncologia,2147
+5747,Cirurgia Geral,2148
+4978,Clínica Médica,2149
+2034,Ortopedia,2150
+4756,Cardiologia,2151
+4615,UTI,2152
+7739,Cardiologia,2153
+5192,Ortopedia,2154
+7240,UTI,2155
+1459,UTI,2156
+8862,Ortopedia,2157
+2610,Neurologia,2158
+5957,Neurologia,2159
+8989,Clínica Médica,2160
+9037,Cirurgia Geral,2161
+7760,UTI,2162
+8089,UTI,2163
+5722,Cirurgia Geral,2164
+5328,Cirurgia Geral,2165
+7215,Oncologia,2166
+2940,UTI,2167
+7557,UTI,2168
+1867,UTI,2169
+2334,Clínica Médica,2170
+6618,Pediatria,2171
+6926,Ortopedia,2172
+5601,Cardiologia,2173
+5865,UTI,2174
+3210,Clínica Médica,2175
+5050,Oncologia,2176
+8630,Pediatria,2177
+5418,Pediatria,2178
+1251,Clínica Médica,2179
+3352,Neurologia,2180
+3860,Ortopedia,2181
+3699,Pediatria,2182
+3875,UTI,2183
+7898,Clínica Médica,2184
+7629,Neurologia,2185
+2553,Cirurgia Geral,2186
+9829,Neurologia,2187
+2449,Cirurgia Geral,2188
+7057,Cardiologia,2189
+4089,Ortopedia,2190
+9182,UTI,2191
+2985,Ortopedia,2192
+9522,Ortopedia,2193
+6339,Clínica Médica,2194
+9558,Neurologia,2195
+8920,Cirurgia Geral,2196
+2089,Pediatria,2197
+2691,Oncologia,2198
+5778,Clínica Médica,2199
+2156,Oncologia,2200
+6776,Neurologia,2201
+7736,Cardiologia,2202
+6260,Neurologia,2203
+1749,Clínica Médica,2204
+5743,Cardiologia,2205
+8035,UTI,2206
+1791,Neurologia,2207
+9713,Ortopedia,2208
+7311,Oncologia,2209
+3779,Pediatria,2210
+4870,Clínica Médica,2211
+6533,Pediatria,2212
+1838,Neurologia,2213
+1045,Cardiologia,2214
+8016,Ortopedia,2215
+4930,Clínica Médica,2216
+1303,Clínica Médica,2217
+4116,Ortopedia,2218
+4324,UTI,2219
+2556,Ortopedia,2220
+9675,Pediatria,2221
+9804,Neurologia,2222
+5500,UTI,2223
+9909,Cardiologia,2224
+8181,Cardiologia,2225
+3090,Cirurgia Geral,2226
+9432,Pediatria,2227
+2660,Neurologia,2228
+6874,Cirurgia Geral,2229
+9489,Clínica Médica,2230
+9635,UTI,2231
+3806,Cardiologia,2232
+3115,Neurologia,2233
+9859,Cirurgia Geral,2234
+6794,Cirurgia Geral,2235
+8629,Neurologia,2236
+2013,UTI,2237
+1624,Cardiologia,2238
+2814,UTI,2239
+8257,Oncologia,2240
+7684,Cirurgia Geral,2241
+3758,Cardiologia,2242
+4032,Neurologia,2243
+2401,Clínica Médica,2244
+6734,Clínica Médica,2245
+8422,Clínica Médica,2246
+3224,UTI,2247
+2748,Cardiologia,2248
+1826,Oncologia,2249
+2254,Cardiologia,2250
+8188,Oncologia,2251
+5264,Clínica Médica,2252
+2433,Oncologia,2253
+5617,UTI,2254
+6810,Cardiologia,2255
+7090,Neurologia,2256
+7503,Cirurgia Geral,2257
+2808,Oncologia,2258
+6436,Ortopedia,2259
+7043,Oncologia,2260
+8740,Oncologia,2261
+4371,Cardiologia,2262
+2561,UTI,2263
+4324,Neurologia,2264
+1375,UTI,2265
+7897,Clínica Médica,2266
+4219,Oncologia,2267
+1858,Oncologia,2268
+2443,Cirurgia Geral,2269
+9610,Cirurgia Geral,2270
+2131,UTI,2271
+9402,Pediatria,2272
+7193,UTI,2273
+1682,Clínica Médica,2274
+8985,Cardiologia,2275
+2010,Pediatria,2276
+6958,Neurologia,2277
+7012,Oncologia,2278
+9526,Clínica Médica,2279
+7290,Ortopedia,2280
+9682,Pediatria,2281
+3920,Cirurgia Geral,2282
+3574,Oncologia,2283
+7061,Cardiologia,2284
+9346,Pediatria,2285
+2834,Clínica Médica,2286
+4864,Neurologia,2287
+3572,Cardiologia,2288
+8699,Pediatria,2289
+8871,UTI,2290
+8639,Cardiologia,2291
+2033,Pediatria,2292
+2993,Oncologia,2293
+3794,Cirurgia Geral,2294
+7932,Oncologia,2295
+2644,Oncologia,2296
+5006,Cirurgia Geral,2297
+5527,Neurologia,2298
+4437,Clínica Médica,2299
+6560,Clínica Médica,2300
+4167,Ortopedia,2301
+3379,Pediatria,2302
+1556,Oncologia,2303
+7878,UTI,2304
+9829,UTI,2305
+1068,UTI,2306
+1532,Ortopedia,2307
+5983,Cirurgia Geral,2308
+5476,UTI,2309
+5152,Pediatria,2310
+2740,Oncologia,2311
+8257,Ortopedia,2312
+6455,Cirurgia Geral,2313
+1658,UTI,2314
+7169,Pediatria,2315
+2509,UTI,2316
+4473,UTI,2317
+1210,Cardiologia,2318
+7813,Pediatria,2319
+9644,Neurologia,2320
+9980,Clínica Médica,2321
+3652,Cardiologia,2322
+5577,Cirurgia Geral,2323
+5654,Cardiologia,2324
+8995,Clínica Médica,2325
+9788,Oncologia,2326
+1407,UTI,2327
+5782,Clínica Médica,2328
+3386,Cardiologia,2329
+2492,Pediatria,2330
+5012,UTI,2331
+9852,Oncologia,2332
+2085,Cardiologia,2333
+8504,Cardiologia,2334
+4294,UTI,2335
+1797,Pediatria,2336
+5496,Neurologia,2337
+1743,Clínica Médica,2338
+6858,Neurologia,2339
+4815,Cardiologia,2340
+1896,Pediatria,2341
+9374,UTI,2342
+7585,Oncologia,2343
+8859,Neurologia,2344
+9143,Ortopedia,2345
+7589,Cirurgia Geral,2346
+3969,Pediatria,2347
+7417,Cardiologia,2348
+1724,Cirurgia Geral,2349
+2439,Cirurgia Geral,2350
+8134,Cirurgia Geral,2351
+6529,Ortopedia,2352
+4470,Cardiologia,2353
+4883,Neurologia,2354
+2303,Ortopedia,2355
+7220,Cirurgia Geral,2356
+4327,Cardiologia,2357
+5521,Oncologia,2358
+8815,Ortopedia,2359
+5828,Pediatria,2360
+5439,Oncologia,2361
+4225,Clínica Médica,2362
+2263,Cirurgia Geral,2363
+1006,Neurologia,2364
+2909,Clínica Médica,2365
+8268,Neurologia,2366
+7141,Oncologia,2367
+5323,Pediatria,2368
+1944,UTI,2369
+1215,Cirurgia Geral,2370
+2812,Neurologia,2371
+4026,Cirurgia Geral,2372
+1219,Clínica Médica,2373
+4160,Cardiologia,2374
+7094,Cardiologia,2375
+3715,UTI,2376
+6563,Oncologia,2377
+2875,Cirurgia Geral,2378
+3229,Cardiologia,2379
+2442,Neurologia,2380
+8402,Pediatria,2381
+4313,Cardiologia,2382
+7795,UTI,2383
+1678,Pediatria,2384
+8707,Cardiologia,2385
+6352,UTI,2386
+3737,Pediatria,2387
+8032,Oncologia,2388
+5979,Cardiologia,2389
+4928,Pediatria,2390
+3239,Oncologia,2391
+6581,UTI,2392
+7060,UTI,2393
+8584,Neurologia,2394
+1997,Neurologia,2395
+6818,Neurologia,2396
+5951,UTI,2397
+3613,Pediatria,2398
+5834,Neurologia,2399
+1761,Neurologia,2400
+8141,Cardiologia,2401
+1083,Pediatria,2402
+4347,UTI,2403
+2394,Cirurgia Geral,2404
+3140,Cardiologia,2405
+8661,UTI,2406
+2819,Cardiologia,2407
+8587,Cirurgia Geral,2408
+7810,Clínica Médica,2409
+4966,Clínica Médica,2410
+6667,Ortopedia,2411
+9237,Cirurgia Geral,2412
+1355,Pediatria,2413
+7260,Clínica Médica,2414
+7418,Clínica Médica,2415
+6917,Pediatria,2416
+9434,Pediatria,2417
+7299,Clínica Médica,2418
+1646,Pediatria,2419
+2065,Pediatria,2420
+5650,UTI,2421
+8859,Cardiologia,2422
+2067,Neurologia,2423
+8619,Oncologia,2424
+9130,Neurologia,2425
+3949,Ortopedia,2426
+9185,Pediatria,2427
+9204,UTI,2428
+4649,Ortopedia,2429
+5994,Clínica Médica,2430
+3214,Clínica Médica,2431
+1368,Oncologia,2432
+8510,Ortopedia,2433
+9287,Ortopedia,2434
+6367,Clínica Médica,2435
+2209,Neurologia,2436
+3051,Oncologia,2437
+5763,Pediatria,2438
+9160,Neurologia,2439
+2593,Cirurgia Geral,2440
+2344,Cardiologia,2441
+3748,Clínica Médica,2442
+5947,Pediatria,2443
+9439,Oncologia,2444
+5018,Cirurgia Geral,2445
+8534,Cardiologia,2446
+5003,Neurologia,2447
+1403,Oncologia,2448
+3693,Ortopedia,2449
+1564,Ortopedia,2450
+4051,Oncologia,2451
+9476,Clínica Médica,2452
+4883,Oncologia,2453
+9924,Neurologia,2454
+5310,Ortopedia,2455
+8552,Clínica Médica,2456
+4113,Oncologia,2457
+5719,Pediatria,2458
+7333,UTI,2459
+7205,Clínica Médica,2460
+9952,Pediatria,2461
+1969,Ortopedia,2462
+8026,Neurologia,2463
+1396,Oncologia,2464
+9197,Cardiologia,2465
+4360,Cardiologia,2466
+1696,Cirurgia Geral,2467
+9010,UTI,2468
+8042,Ortopedia,2469
+8665,Ortopedia,2470
+9978,Clínica Médica,2471
+9687,Neurologia,2472
+4987,Clínica Médica,2473
+1952,Ortopedia,2474
+2140,Pediatria,2475
+9018,Clínica Médica,2476
+8655,Clínica Médica,2477
+3892,Neurologia,2478
+2387,Ortopedia,2479
+3631,Cardiologia,2480
+5049,Clínica Médica,2481
+9917,UTI,2482
+3386,UTI,2483
+6388,Neurologia,2484
+5582,Ortopedia,2485
+1633,Clínica Médica,2486
+2160,Neurologia,2487
+9857,Clínica Médica,2488
+7841,Cardiologia,2489
+6529,Oncologia,2490
+3693,Oncologia,2491
+5485,Clínica Médica,2492
+2743,Oncologia,2493
+1215,Oncologia,2494
+3887,Oncologia,2495
+5195,Cirurgia Geral,2496
+7807,Clínica Médica,2497
+6820,Cardiologia,2498
+1263,Cirurgia Geral,2499
+4030,Pediatria,2500
+1413,Neurologia,2501
+4365,UTI,2502
+7328,Cirurgia Geral,2503
+1700,Ortopedia,2504
+3196,Pediatria,2505
+9699,Ortopedia,2506
+4437,Cirurgia Geral,2507
+7883,Cirurgia Geral,2508
+6951,Cardiologia,2509
+9156,Cirurgia Geral,2510
+7308,UTI,2511
+9966,Clínica Médica,2512
+5839,Cardiologia,2513
+2400,Clínica Médica,2514
+5943,Cirurgia Geral,2515
+9297,Cardiologia,2516
+7081,Neurologia,2517
+8240,Cirurgia Geral,2518
+2401,UTI,2519
+8397,Pediatria,2520
+9361,Oncologia,2521
+4917,UTI,2522
+4499,UTI,2523
+1338,Clínica Médica,2524
+4150,Cardiologia,2525
+5863,UTI,2526
+6003,Pediatria,2527
+9438,Oncologia,2528
+9918,Cirurgia Geral,2529
+2654,Cardiologia,2530
+1793,UTI,2531
+6459,Ortopedia,2532
+2514,Cardiologia,2533
+2824,Ortopedia,2534
+6298,Ortopedia,2535
+3473,Oncologia,2536
+1978,Cardiologia,2537
+1329,Neurologia,2538
+1746,Cirurgia Geral,2539
+1822,Cirurgia Geral,2540
+3739,UTI,2541
+2779,Oncologia,2542
+6606,Pediatria,2543
+9365,UTI,2544
+9428,Clínica Médica,2545
+5571,Cirurgia Geral,2546
+5905,Clínica Médica,2547
+9490,Oncologia,2548
+2023,Neurologia,2549
+1291,Clínica Médica,2550
+9026,Neurologia,2551
+8604,Pediatria,2552
+6978,Ortopedia,2553
+6384,Neurologia,2554
+2919,Clínica Médica,2555
+5651,Cirurgia Geral,2556
+9746,UTI,2557
+4683,Cirurgia Geral,2558
+8321,Clínica Médica,2559
+1922,Cirurgia Geral,2560
+7471,Cirurgia Geral,2561
+8276,Neurologia,2562
+1017,Cardiologia,2563
+1414,Ortopedia,2564
+2278,UTI,2565
+6933,Pediatria,2566
+4568,Neurologia,2567
+9037,Clínica Médica,2568
+5570,Pediatria,2569
+9623,Cirurgia Geral,2570
+3498,Oncologia,2571
+3381,Clínica Médica,2572
+7964,Ortopedia,2573
+3822,Pediatria,2574
+7655,Cirurgia Geral,2575
+7756,Cardiologia,2576
+3641,Oncologia,2577
+7856,Ortopedia,2578
+8027,Ortopedia,2579
+5698,Cardiologia,2580
+5494,Oncologia,2581
+7246,UTI,2582
+9445,Cardiologia,2583
+6418,Oncologia,2584
+3090,Cardiologia,2585
+3531,Neurologia,2586
+5430,Pediatria,2587
+3792,Cardiologia,2588
+5450,Neurologia,2589
+9097,Pediatria,2590
+4545,Cardiologia,2591
+7431,Cardiologia,2592
+4836,Oncologia,2593
+4261,Clínica Médica,2594
+4692,Neurologia,2595
+6142,Oncologia,2596
+7953,UTI,2597
+5077,Clínica Médica,2598
+3571,Clínica Médica,2599
+2558,Clínica Médica,2600
+4742,UTI,2601
+9190,Pediatria,2602
+8177,Cirurgia Geral,2603
+4382,Neurologia,2604
+1123,Ortopedia,2605
+3464,Pediatria,2606
+7542,Clínica Médica,2607
+3606,UTI,2608
+2073,UTI,2609
+1168,UTI,2610
+9590,Cardiologia,2611
+4998,Oncologia,2612
+2230,Cardiologia,2613
+1403,Neurologia,2614
+7998,Cirurgia Geral,2615
+3714,Cirurgia Geral,2616
+4007,Neurologia,2617
+4371,UTI,2618
+3475,Cardiologia,2619
+6203,UTI,2620
+8134,Clínica Médica,2621
+7633,Pediatria,2622
+3020,Ortopedia,2623
+4973,Cardiologia,2624
+7696,Cirurgia Geral,2625
+1515,Pediatria,2626
+8015,UTI,2627
+5054,Oncologia,2628
+4409,UTI,2629
+6179,Ortopedia,2630
+2090,Pediatria,2631
+2207,Oncologia,2632
+8601,Pediatria,2633
+2004,Neurologia,2634
+6327,Clínica Médica,2635
+9082,Cardiologia,2636
+7438,UTI,2637
+1715,Oncologia,2638
+9344,Neurologia,2639
+7359,Neurologia,2640
+7309,Ortopedia,2641
+7216,UTI,2642
+5242,Cirurgia Geral,2643
+9135,Neurologia,2644
+9609,Ortopedia,2645
+5159,Neurologia,2646
+5582,Clínica Médica,2647
+6755,UTI,2648
+5974,Clínica Médica,2649
+2583,Oncologia,2650
+4561,UTI,2651
+9940,Oncologia,2652
+3934,Neurologia,2653
+9148,Ortopedia,2654
+7889,Neurologia,2655
+1398,UTI,2656
+3198,Neurologia,2657
+8358,Neurologia,2658
+3519,Pediatria,2659
+7740,Cirurgia Geral,2660
+2981,Neurologia,2661
+5954,Cardiologia,2662
+6096,Ortopedia,2663
+7718,Clínica Médica,2664
+9071,Neurologia,2665
+5258,Clínica Médica,2666
+5529,Cardiologia,2667
+1075,Oncologia,2668
+2623,Neurologia,2669
+1570,Ortopedia,2670
+2467,Cirurgia Geral,2671
+6229,Cirurgia Geral,2672
+3464,Ortopedia,2673
+5183,Cirurgia Geral,2674
+7976,Pediatria,2675
+6831,Pediatria,2676
+8382,Ortopedia,2677
+4671,Oncologia,2678
+4997,UTI,2679
+8682,Cardiologia,2680
+5851,Oncologia,2681
+1600,UTI,2682
+5829,Ortopedia,2683
+5217,UTI,2684
+4193,Neurologia,2685
+2755,Oncologia,2686
+8375,Pediatria,2687
+9779,Oncologia,2688
+1753,UTI,2689
+3461,UTI,2690
+4450,UTI,2691
+5107,Clínica Médica,2692
+1993,Ortopedia,2693
+6012,Cardiologia,2694
+8676,Neurologia,2695
+4403,Ortopedia,2696
+6672,UTI,2697
+5615,Cardiologia,2698
+6195,Clínica Médica,2699
+5649,Clínica Médica,2700
+5108,Cardiologia,2701
+2531,Neurologia,2702
+5486,Neurologia,2703
+6763,Clínica Médica,2704
+7139,Cirurgia Geral,2705
+8508,Cardiologia,2706
+4814,Oncologia,2707
+3174,Ortopedia,2708
+1768,Cardiologia,2709
+1875,Cardiologia,2710
+9405,Neurologia,2711
+5524,Neurologia,2712
+1913,Cardiologia,2713
+9861,Cirurgia Geral,2714
+8895,Cardiologia,2715
+5221,Pediatria,2716
+6647,Pediatria,2717
+2782,Clínica Médica,2718
+3494,Oncologia,2719
+3304,Cardiologia,2720
+9502,Oncologia,2721
+2723,Ortopedia,2722
+6031,Cardiologia,2723
+5169,Clínica Médica,2724
+5887,Ortopedia,2725
+4563,Neurologia,2726
+6544,Neurologia,2727
+2729,UTI,2728
+6080,Cardiologia,2729
+4290,Clínica Médica,2730
+7533,Cirurgia Geral,2731
+9349,Oncologia,2732
+6837,UTI,2733
+3142,Neurologia,2734
+3286,Ortopedia,2735
+3961,Pediatria,2736
+8213,Cardiologia,2737
+7870,Clínica Médica,2738
+3232,Cardiologia,2739
+1367,Clínica Médica,2740
+2819,Oncologia,2741
+2563,Oncologia,2742
+9720,Ortopedia,2743
+3807,Cirurgia Geral,2744
+5955,Ortopedia,2745
+4865,Cirurgia Geral,2746
+9244,Cardiologia,2747
+2432,Neurologia,2748
+8212,Neurologia,2749
+2475,Pediatria,2750
+5997,UTI,2751
+6498,Neurologia,2752
+3268,Clínica Médica,2753
+8309,Pediatria,2754
+9981,Pediatria,2755
+9395,UTI,2756
+1561,Cirurgia Geral,2757
+1051,Pediatria,2758
+7019,Clínica Médica,2759
+1414,Cardiologia,2760
+8873,Pediatria,2761
+2632,Neurologia,2762
+9801,Oncologia,2763
+1531,Oncologia,2764
+6246,Cardiologia,2765
+5448,Neurologia,2766
+7493,Ortopedia,2767
+4966,Pediatria,2768
+2743,Ortopedia,2769
+7243,Ortopedia,2770
+8648,Clínica Médica,2771
+5691,Neurologia,2772
+6088,UTI,2773
+4710,Pediatria,2774
+9845,Clínica Médica,2775
+4770,Neurologia,2776
+5207,Oncologia,2777
+5120,UTI,2778
+6010,Oncologia,2779
+9416,Cirurgia Geral,2780
+9250,UTI,2781
+4305,Clínica Médica,2782
+9574,UTI,2783
+4588,Cardiologia,2784
+9067,UTI,2785
+9708,UTI,2786
+6188,Cirurgia Geral,2787
+1187,Neurologia,2788
+4840,Neurologia,2789
+3843,UTI,2790
+9194,Clínica Médica,2791
+9969,Neurologia,2792
+7791,Neurologia,2793
+6499,Oncologia,2794
+9476,Pediatria,2795
+3685,UTI,2796
+4913,Ortopedia,2797
+7469,Oncologia,2798
+5889,Clínica Médica,2799
+4079,Neurologia,2800
+1142,Pediatria,2801
+2988,Neurologia,2802
+2311,Oncologia,2803
+7990,Pediatria,2804
+2396,Neurologia,2805
+1324,Ortopedia,2806
+4052,Neurologia,2807
+5236,Neurologia,2808
+1818,Pediatria,2809
+2547,Neurologia,2810
+8402,Ortopedia,2811
+7998,Neurologia,2812
+2733,Neurologia,2813
+1806,Clínica Médica,2814
+9150,UTI,2815
+1734,Neurologia,2816
+7004,Ortopedia,2817
+9404,Pediatria,2818
+1524,Oncologia,2819
+8252,UTI,2820
+8220,UTI,2821
+5252,UTI,2822
+7637,Pediatria,2823
+6565,Cirurgia Geral,2824
+5520,Cirurgia Geral,2825
+5284,Pediatria,2826
+9823,Cardiologia,2827
+2846,Clínica Médica,2828
+9207,Cirurgia Geral,2829
+5695,Cardiologia,2830
+8660,Ortopedia,2831
+7434,Ortopedia,2832
+4199,Cirurgia Geral,2833
+6165,Oncologia,2834
+9859,UTI,2835
+9962,Oncologia,2836
+4762,Pediatria,2837
+7095,Neurologia,2838
+1095,Ortopedia,2839
+1507,Cirurgia Geral,2840
+4928,UTI,2841
+9896,Ortopedia,2842
+1228,Oncologia,2843
+2751,Neurologia,2844
+7911,Pediatria,2845
+3430,Clínica Médica,2846
+1392,Oncologia,2847
+8296,Neurologia,2848
+2287,Neurologia,2849
+1224,Ortopedia,2850
+7632,Ortopedia,2851
+3070,Ortopedia,2852
+6110,Cirurgia Geral,2853
+6929,Pediatria,2854
+6994,Cardiologia,2855
+7696,Neurologia,2856
+2262,Clínica Médica,2857
+4960,Clínica Médica,2858
+3293,UTI,2859
+3945,Ortopedia,2860
+9249,Clínica Médica,2861
+6140,Cirurgia Geral,2862
+9928,Ortopedia,2863
+3948,Cirurgia Geral,2864
+8912,Ortopedia,2865
+8059,Clínica Médica,2866
+3403,Pediatria,2867
+1200,Cirurgia Geral,2868
+5528,UTI,2869
+5876,Cardiologia,2870
+1859,Pediatria,2871
+6167,Pediatria,2872
+1497,Neurologia,2873
+8380,Cirurgia Geral,2874
+7773,Cirurgia Geral,2875
+2536,Cirurgia Geral,2876
+2052,UTI,2877
+9368,Neurologia,2878
+4209,Clínica Médica,2879
+9030,Ortopedia,2880
+7626,Cirurgia Geral,2881
+7954,UTI,2882
+1881,Ortopedia,2883
+6209,Ortopedia,2884
+3746,Neurologia,2885
+9882,Neurologia,2886
+8720,Cardiologia,2887
+3840,UTI,2888
+7021,Clínica Médica,2889
+7365,Neurologia,2890
+1536,Cirurgia Geral,2891
+7910,Pediatria,2892
+7685,Pediatria,2893
+4673,Cardiologia,2894
+3894,Oncologia,2895
+8018,Clínica Médica,2896
+5527,UTI,2897
+7495,Cirurgia Geral,2898
+6027,UTI,2899
+6724,Neurologia,2900
+3039,Cardiologia,2901
+9441,UTI,2902
+9874,UTI,2903
+8377,Cardiologia,2904
+4560,UTI,2905
+5951,Ortopedia,2906
+6014,Ortopedia,2907
+3427,Clínica Médica,2908
+6260,Ortopedia,2909
+5799,Ortopedia,2910
+8256,Cardiologia,2911
+6986,Cirurgia Geral,2912
+5606,Oncologia,2913
+2896,Cirurgia Geral,2914
+2816,Ortopedia,2915
+1619,Neurologia,2916
+2026,Cirurgia Geral,2917
+7934,Neurologia,2918
+8659,Cardiologia,2919
+7061,Neurologia,2920
+7946,Cardiologia,2921
+1963,UTI,2922
+6252,Neurologia,2923
+8054,Clínica Médica,2924
+4727,Pediatria,2925
+4233,Clínica Médica,2926
+2573,Ortopedia,2927
+6174,Neurologia,2928
+7094,Cirurgia Geral,2929
+4920,Pediatria,2930
+9834,Neurologia,2931
+7965,Neurologia,2932
+1582,UTI,2933
+4492,Clínica Médica,2934
+4838,UTI,2935
+1782,UTI,2936
+1236,Pediatria,2937
+8539,Cirurgia Geral,2938
+1396,Ortopedia,2939
+4111,Clínica Médica,2940
+8211,Cirurgia Geral,2941
+1925,Oncologia,2942
+1031,Cardiologia,2943
+3936,Clínica Médica,2944
+6784,Clínica Médica,2945
+5740,UTI,2946
+2706,Clínica Médica,2947
+4052,Clínica Médica,2948
+2460,Ortopedia,2949
+5830,Oncologia,2950
+7430,Cirurgia Geral,2951
+1951,Neurologia,2952
+2100,Neurologia,2953
+9252,Neurologia,2954
+4248,UTI,2955
+9806,UTI,2956
+4870,Ortopedia,2957
+6292,Cardiologia,2958
+8630,Clínica Médica,2959
+9100,Cardiologia,2960
+5551,Cardiologia,2961
+5051,Ortopedia,2962
+3778,Cirurgia Geral,2963
+4886,Neurologia,2964
+1061,Oncologia,2965
+6607,Oncologia,2966
+8831,UTI,2967
+1811,Ortopedia,2968
+5169,Cardiologia,2969
+4380,UTI,2970
+6232,Neurologia,2971
+9718,Clínica Médica,2972
+7772,UTI,2973
+7575,Clínica Médica,2974
+7758,Cirurgia Geral,2975
+8670,Cirurgia Geral,2976
+4755,Clínica Médica,2977
+8258,Cirurgia Geral,2978
+4589,UTI,2979
+4668,Ortopedia,2980
+7397,Oncologia,2981
+6709,Ortopedia,2982
+9790,Oncologia,2983
+4108,Clínica Médica,2984
+9559,Oncologia,2985
+4153,Cardiologia,2986
+4243,Pediatria,2987
+7816,Cirurgia Geral,2988
+4304,UTI,2989
+2726,Clínica Médica,2990
+3498,Neurologia,2991
+2083,Ortopedia,2992
+7637,Cardiologia,2993
+4082,Neurologia,2994
+3084,Cirurgia Geral,2995
+1984,Cirurgia Geral,2996
+4542,Pediatria,2997
+5731,Cirurgia Geral,2998
+2214,Cirurgia Geral,2999
+9924,Pediatria,3000
+2336,Cirurgia Geral,3001
+5239,Oncologia,3002
+8491,Cirurgia Geral,3003
+9386,Oncologia,3004
+6781,Clínica Médica,3005
+8786,Cirurgia Geral,3006
+3448,Neurologia,3007
+4029,Pediatria,3008
+7932,UTI,3009
+8074,UTI,3010
+4249,Pediatria,3011
+6356,Neurologia,3012
+5259,UTI,3013
+6773,Cirurgia Geral,3014
+7257,Ortopedia,3015
+9203,Clínica Médica,3016
+2100,Clínica Médica,3017
+7284,Clínica Médica,3018
+8050,Oncologia,3019
+9515,Clínica Médica,3020
+6504,Cirurgia Geral,3021
+2241,Pediatria,3022
+3397,Cardiologia,3023
+9217,UTI,3024
+2583,Neurologia,3025
+1604,UTI,3026
+4866,Pediatria,3027
+3322,Ortopedia,3028
+5231,Cirurgia Geral,3029
+4195,Oncologia,3030
+1267,Neurologia,3031
+3281,Cardiologia,3032
+1268,Oncologia,3033
+1003,Clínica Médica,3034
+9295,Oncologia,3035
+8469,Clínica Médica,3036
+5411,Clínica Médica,3037
+4288,Cirurgia Geral,3038
+1195,Pediatria,3039
+3810,UTI,3040
+7699,Cardiologia,3041
+5647,Cirurgia Geral,3042
+2653,Cardiologia,3043
+4826,UTI,3044
+2109,Ortopedia,3045
+3801,Ortopedia,3046
+8677,Cardiologia,3047
+2759,Pediatria,3048
+5177,Oncologia,3049
+8799,Pediatria,3050
+8915,Neurologia,3051
+3606,Oncologia,3052
+6369,Pediatria,3053
+7081,Cardiologia,3054
+7004,Cirurgia Geral,3055
+3508,Oncologia,3056
+1416,Ortopedia,3057
+9015,Clínica Médica,3058
+7055,Cirurgia Geral,3059
+4629,Cirurgia Geral,3060
+5459,Cardiologia,3061
+1543,UTI,3062
+5105,Cirurgia Geral,3063
+7705,Cirurgia Geral,3064
+8346,Neurologia,3065
+3052,Pediatria,3066
+3333,Ortopedia,3067
+8603,UTI,3068
+1751,Oncologia,3069
+2018,Pediatria,3070
+4881,Oncologia,3071
+3229,Ortopedia,3072
+5717,Oncologia,3073
+7567,Oncologia,3074
+2175,Cardiologia,3075
+7412,Cardiologia,3076
+5843,Cardiologia,3077
+6625,Pediatria,3078
+3863,Ortopedia,3079
+7628,Cirurgia Geral,3080
+6072,Oncologia,3081
+3107,Oncologia,3082
+7105,Clínica Médica,3083
+7422,Oncologia,3084
+9191,Cirurgia Geral,3085
+1273,Clínica Médica,3086
+4064,Cardiologia,3087
+5344,Neurologia,3088
+3046,Cardiologia,3089
+4858,Neurologia,3090
+9099,Pediatria,3091
+4970,Clínica Médica,3092
+4038,Neurologia,3093
+8224,UTI,3094
+8286,UTI,3095
+6678,Cirurgia Geral,3096
+4958,Clínica Médica,3097
+4893,Cirurgia Geral,3098
+7268,Ortopedia,3099
+7049,Oncologia,3100
+4384,Cirurgia Geral,3101
+7731,UTI,3102
+3695,Cardiologia,3103
+9779,Cardiologia,3104
+9877,UTI,3105
+1166,Cirurgia Geral,3106
+2636,UTI,3107
+9317,Cirurgia Geral,3108
+7013,Cardiologia,3109
+1418,Pediatria,3110
+3638,Cardiologia,3111
+3375,Ortopedia,3112
+8146,Oncologia,3113
+9655,Oncologia,3114
+5614,Neurologia,3115
+3853,Ortopedia,3116
+3399,Neurologia,3117
+9735,Pediatria,3118
+9918,Pediatria,3119
+4155,Cirurgia Geral,3120
+2963,Pediatria,3121
+3935,Oncologia,3122
+4301,UTI,3123
+6047,Neurologia,3124
+2757,Oncologia,3125
+8993,Pediatria,3126
+8257,Cirurgia Geral,3127
+9249,Pediatria,3128
+7632,Cirurgia Geral,3129
+9802,Clínica Médica,3130
+3316,UTI,3131
+8937,Cirurgia Geral,3132
+8144,Clínica Médica,3133
+1175,Neurologia,3134
+7587,Clínica Médica,3135
+2822,UTI,3136
+6123,Cardiologia,3137
+6731,Oncologia,3138
+6288,Cardiologia,3139
+7088,Cirurgia Geral,3140
+9661,Pediatria,3141
+3352,Pediatria,3142
+4729,UTI,3143
+9205,UTI,3144
+4713,UTI,3145
+6494,Oncologia,3146
+3601,Neurologia,3147
+4797,Oncologia,3148
+1082,Cirurgia Geral,3149
+3294,UTI,3150
+3793,Cirurgia Geral,3151
+1624,Ortopedia,3152
+3342,Cardiologia,3153
+9438,UTI,3154
+4417,Ortopedia,3155
+4132,Ortopedia,3156
+9649,Clínica Médica,3157
+2328,Neurologia,3158
+5715,Neurologia,3159
+9795,UTI,3160
+9951,Oncologia,3161
+4149,Clínica Médica,3162
+1250,Clínica Médica,3163
+2882,Oncologia,3164
+4730,UTI,3165
+5448,Pediatria,3166
+3697,Clínica Médica,3167
+1369,UTI,3168
+6090,UTI,3169
+3680,Cirurgia Geral,3170
+4336,Ortopedia,3171
+8428,Neurologia,3172
+7988,Cirurgia Geral,3173
+6969,Cardiologia,3174
+3121,Cirurgia Geral,3175
+2380,Oncologia,3176
+1019,Clínica Médica,3177
+9638,Clínica Médica,3178
+8928,Cardiologia,3179
+6349,Clínica Médica,3180
+4638,UTI,3181
+4358,Oncologia,3182
+8274,Neurologia,3183
+6002,Pediatria,3184
+1477,Oncologia,3185
+3079,Neurologia,3186
+2639,Cardiologia,3187
+5324,Ortopedia,3188
+2622,Neurologia,3189
+8171,Cirurgia Geral,3190
+7092,Pediatria,3191
+5440,Pediatria,3192
+1103,UTI,3193
+6847,Ortopedia,3194
+5399,Oncologia,3195
+8272,Neurologia,3196
+6803,Pediatria,3197
+2888,Pediatria,3198
+4684,Cardiologia,3199
+5732,Clínica Médica,3200
+2733,Pediatria,3201
+1529,UTI,3202
+1444,Clínica Médica,3203
+8689,Ortopedia,3204
+6420,UTI,3205
+5173,Neurologia,3206
+1165,Oncologia,3207
+2598,Cardiologia,3208
+1610,Cardiologia,3209
+4444,Neurologia,3210
+4661,Neurologia,3211
+3651,Ortopedia,3212
+2060,UTI,3213
+6004,Clínica Médica,3214
+1620,Pediatria,3215
+9056,Cardiologia,3216
+2762,Neurologia,3217
+8231,Oncologia,3218
+6399,UTI,3219
+4882,Pediatria,3220
+8014,Pediatria,3221
+4629,Clínica Médica,3222
+5524,Cirurgia Geral,3223
+7738,Cardiologia,3224
+1675,Clínica Médica,3225
+8332,Oncologia,3226
+5980,Oncologia,3227
+1099,UTI,3228
+7449,Cardiologia,3229
+6920,Neurologia,3230
+2326,Ortopedia,3231
+3301,Neurologia,3232
+8610,Cirurgia Geral,3233
+5125,Cardiologia,3234
+2059,Cardiologia,3235
+6778,Oncologia,3236
+6202,Cirurgia Geral,3237
+1583,Oncologia,3238
+9043,UTI,3239
+8284,Oncologia,3240
+3122,Cardiologia,3241
+1330,Cardiologia,3242
+1298,Cirurgia Geral,3243
+5340,Neurologia,3244
+3277,Ortopedia,3245
+5454,Pediatria,3246
+3257,Cirurgia Geral,3247
+5115,Cardiologia,3248
+6798,Cardiologia,3249
+7789,Ortopedia,3250
+6466,Cardiologia,3251
+2970,Cirurgia Geral,3252
+9313,Cardiologia,3253
+7910,Cardiologia,3254
+4051,Clínica Médica,3255
+8831,Neurologia,3256
+1193,Clínica Médica,3257
+9372,Pediatria,3258
+8539,UTI,3259
+6119,Clínica Médica,3260
+7741,Pediatria,3261
+8226,Neurologia,3262
+9666,Cirurgia Geral,3263
+3585,Cardiologia,3264
+1060,Cirurgia Geral,3265
+9557,Oncologia,3266
+6192,UTI,3267
+7201,Cardiologia,3268
+4893,Clínica Médica,3269
+3505,Ortopedia,3270
+9243,Oncologia,3271
+5836,Clínica Médica,3272
+2476,Oncologia,3273
+3506,Cirurgia Geral,3274
+1038,Oncologia,3275
+7635,Cirurgia Geral,3276
+6292,Oncologia,3277
+3776,Oncologia,3278
+6083,Neurologia,3279
+5429,Oncologia,3280
+8013,Neurologia,3281
+6143,Clínica Médica,3282
+5761,UTI,3283
+5084,Pediatria,3284
+1159,Ortopedia,3285
+1942,Neurologia,3286
+6689,Cardiologia,3287
+8641,UTI,3288
+3886,Oncologia,3289
+1314,Pediatria,3290
+5448,Clínica Médica,3291
+2233,Clínica Médica,3292
+1305,Cirurgia Geral,3293
+4336,Cardiologia,3294
+4086,UTI,3295
+1253,Neurologia,3296
+9101,Cirurgia Geral,3297
+7423,Cardiologia,3298
+9622,Cirurgia Geral,3299
+1924,Cirurgia Geral,3300
+3050,Pediatria,3301
+8304,Oncologia,3302
+3193,Clínica Médica,3303
+6602,Cardiologia,3304
+5951,Cirurgia Geral,3305
+4380,Cirurgia Geral,3306
+8218,Clínica Médica,3307
+1621,Cardiologia,3308
+1315,Neurologia,3309
+3330,Ortopedia,3310
+3830,Pediatria,3311
+6367,Ortopedia,3312
+5788,Cirurgia Geral,3313
+2134,Neurologia,3314
+1104,Cardiologia,3315
+4554,Pediatria,3316
+1071,Oncologia,3317
+9595,Cardiologia,3318
+1822,UTI,3319
+7832,Cardiologia,3320
+9972,Pediatria,3321
+3780,Neurologia,3322
+7791,Cirurgia Geral,3323
+9171,Ortopedia,3324
+5433,Ortopedia,3325
+9803,Neurologia,3326
+8101,Clínica Médica,3327
+6933,Ortopedia,3328
+5668,Clínica Médica,3329
+8070,Cirurgia Geral,3330
+4455,Neurologia,3331
+4178,Pediatria,3332
+5856,UTI,3333
+6589,Cirurgia Geral,3334
+7600,Cirurgia Geral,3335
+1261,Ortopedia,3336
+4774,Cirurgia Geral,3337
+8212,Oncologia,3338
+2669,UTI,3339
+9193,Neurologia,3340
+8276,Oncologia,3341
+5504,Pediatria,3342
+2633,Clínica Médica,3343
+6807,Ortopedia,3344
+7299,Cirurgia Geral,3345
+3533,Oncologia,3346
+9157,UTI,3347
+9607,Oncologia,3348
+7000,Neurologia,3349
+4350,Ortopedia,3350
+4046,Neurologia,3351
+9851,Oncologia,3352
+1106,Ortopedia,3353
+6710,UTI,3354
+8353,Pediatria,3355
+7502,UTI,3356
+4070,Pediatria,3357
+1106,Oncologia,3358
+8211,Pediatria,3359
+3950,Ortopedia,3360
+3069,Neurologia,3361
+2519,Cirurgia Geral,3362
+6634,UTI,3363
+9126,Clínica Médica,3364
+3699,UTI,3365
+6640,UTI,3366
+1916,UTI,3367
+4320,Neurologia,3368
+9775,Cardiologia,3369
+8700,Neurologia,3370
+5583,Cardiologia,3371
+3781,Neurologia,3372
+4786,Neurologia,3373
+3589,UTI,3374
+1914,Ortopedia,3375
+9784,UTI,3376
+8925,Cardiologia,3377
+4460,UTI,3378
+8643,UTI,3379
+1226,Cirurgia Geral,3380
+8586,Oncologia,3381
+1291,Cardiologia,3382
+6858,Pediatria,3383
+2935,Cirurgia Geral,3384
+6580,Oncologia,3385
+3396,Neurologia,3386
+2993,Cardiologia,3387
+9051,Pediatria,3388
+6035,Cirurgia Geral,3389
+1870,Pediatria,3390
+4387,Cardiologia,3391
+3894,Cirurgia Geral,3392
+4797,Cirurgia Geral,3393
+5635,Pediatria,3394
+2094,Cirurgia Geral,3395
+8643,Clínica Médica,3396
+4598,Cirurgia Geral,3397
+3147,UTI,3398
+2913,Oncologia,3399
+5595,Oncologia,3400
+5096,Cirurgia Geral,3401
+6306,Clínica Médica,3402
+5794,Ortopedia,3403
+3630,Cardiologia,3404
+1802,Ortopedia,3405
+3949,Cirurgia Geral,3406
+6832,Pediatria,3407
+4800,Neurologia,3408
+6280,Cardiologia,3409
+8284,Cardiologia,3410
+2450,Cirurgia Geral,3411
+7373,Pediatria,3412
+9912,Oncologia,3413
+9219,Ortopedia,3414
+1602,Cirurgia Geral,3415
+7785,Clínica Médica,3416
+9040,Neurologia,3417
+7299,UTI,3418
+3258,Ortopedia,3419
+3039,Cirurgia Geral,3420
+7107,Ortopedia,3421
+7491,UTI,3422
+3412,Clínica Médica,3423
+4069,UTI,3424
+7721,Neurologia,3425
+6046,Cirurgia Geral,3426
+3277,UTI,3427
+9867,Oncologia,3428
+8202,Oncologia,3429
+9406,Clínica Médica,3430
+5542,Neurologia,3431
+9375,Pediatria,3432
+5072,UTI,3433
+7376,Oncologia,3434
+1576,Cardiologia,3435
+9721,Ortopedia,3436
+6645,Clínica Médica,3437
+5694,Ortopedia,3438
+3720,Cirurgia Geral,3439
+5953,UTI,3440
+1006,Clínica Médica,3441
+2143,Oncologia,3442
+4824,Oncologia,3443
+2343,Cirurgia Geral,3444
+7068,Neurologia,3445
+8978,Clínica Médica,3446
+4597,Oncologia,3447
+7322,Neurologia,3448
+6755,Cardiologia,3449
+3423,Neurologia,3450
+7126,Clínica Médica,3451
+4690,UTI,3452
+8209,Oncologia,3453
+1471,Ortopedia,3454
+9253,Pediatria,3455
+1281,Cardiologia,3456
+1747,Clínica Médica,3457
+8836,Clínica Médica,3458
+9205,Ortopedia,3459
+9793,Ortopedia,3460
+9295,UTI,3461
+6610,Cardiologia,3462
+7241,Clínica Médica,3463
+1574,Cardiologia,3464
+3638,UTI,3465
+5671,Neurologia,3466
+8416,Oncologia,3467
+3856,Cardiologia,3468
+6673,Clínica Médica,3469
+3089,Pediatria,3470
+7779,Ortopedia,3471
+3499,UTI,3472
+8226,Cardiologia,3473
+9422,Cardiologia,3474
+4390,Clínica Médica,3475
+5753,Neurologia,3476
+7968,Pediatria,3477
+5956,UTI,3478
+3061,Cardiologia,3479
+6436,Cirurgia Geral,3480
+4754,Oncologia,3481
+2273,Cardiologia,3482
+3156,UTI,3483
+1712,Neurologia,3484
+5798,UTI,3485
+1532,UTI,3486
+7381,UTI,3487
+1711,Ortopedia,3488
+3909,Oncologia,3489
+9436,Cirurgia Geral,3490
+4126,Neurologia,3491
+3024,Ortopedia,3492
+1765,Oncologia,3493
+7421,Neurologia,3494
+1725,Cardiologia,3495
+2796,Pediatria,3496
+4515,Oncologia,3497
+3939,Cardiologia,3498
+2365,Clínica Médica,3499
+1230,Pediatria,3500
+8487,Ortopedia,3501
+7502,Neurologia,3502
+8282,Clínica Médica,3503
+5470,UTI,3504
+7936,Oncologia,3505
+5707,Neurologia,3506
+6484,Clínica Médica,3507
+9825,Cirurgia Geral,3508
+6582,Neurologia,3509
+6769,Ortopedia,3510
+2801,Clínica Médica,3511
+2363,Cardiologia,3512
+7706,Oncologia,3513
+8666,Ortopedia,3514
+6213,UTI,3515
+5828,Ortopedia,3516
+5178,Cardiologia,3517
+5829,Cirurgia Geral,3518
+5910,Neurologia,3519
+1743,Cardiologia,3520
+8642,UTI,3521
+1903,Neurologia,3522
+9116,UTI,3523
+2433,Pediatria,3524
+8348,Pediatria,3525
+6334,Clínica Médica,3526
+4222,Neurologia,3527
+9360,Neurologia,3528
+1788,Clínica Médica,3529
+5052,Cardiologia,3530
+5875,Cirurgia Geral,3531
+9407,Ortopedia,3532
+4824,UTI,3533
+8912,Oncologia,3534
+6458,Pediatria,3535
+7127,Cardiologia,3536
+9641,Cirurgia Geral,3537
+4316,Clínica Médica,3538
+5006,Ortopedia,3539
+2654,Pediatria,3540
+3343,UTI,3541
+7118,Pediatria,3542
+2140,Oncologia,3543
+2152,Cardiologia,3544
+9967,Pediatria,3545
+2635,Oncologia,3546
+8184,Neurologia,3547
+5591,Neurologia,3548
+2296,Clínica Médica,3549
+5860,Neurologia,3550
+4807,Pediatria,3551
+2347,Ortopedia,3552
+1351,Cardiologia,3553
+4838,Ortopedia,3554
+3786,UTI,3555
+7212,Clínica Médica,3556
+3145,Clínica Médica,3557
+2699,Clínica Médica,3558
+2516,Neurologia,3559
+4280,Oncologia,3560
+4657,UTI,3561
+8206,Ortopedia,3562
+8282,Neurologia,3563
+7536,Pediatria,3564
+8291,Cardiologia,3565
+5518,Pediatria,3566
+9316,Ortopedia,3567
+3048,UTI,3568
+9086,Clínica Médica,3569
+4479,Neurologia,3570
+6486,Clínica Médica,3571
+1966,Cirurgia Geral,3572
+9657,Cirurgia Geral,3573
+4301,Cardiologia,3574
+2160,Cardiologia,3575
+9849,Cardiologia,3576
+6775,Cardiologia,3577
+6330,Cirurgia Geral,3578
+8058,Cardiologia,3579
+2260,Cirurgia Geral,3580
+3054,Oncologia,3581
+1571,Cardiologia,3582
+6378,Cardiologia,3583
+6378,Pediatria,3584
+8829,Pediatria,3585
+7792,Oncologia,3586
+4754,Cardiologia,3587
+3237,Oncologia,3588
+6355,Cirurgia Geral,3589
+6775,UTI,3590
+2209,Oncologia,3591
+6722,Oncologia,3592
+7951,Neurologia,3593
+3887,Ortopedia,3594
+7841,Oncologia,3595
+4797,Ortopedia,3596
+6309,Pediatria,3597
+9427,Neurologia,3598
+2318,Cardiologia,3599
+6846,Oncologia,3600
+7520,Ortopedia,3601
+9183,Cirurgia Geral,3602
+4176,Ortopedia,3603
+7858,Ortopedia,3604
+8820,Cardiologia,3605
+7094,Ortopedia,3606
+3700,Oncologia,3607
+5724,Pediatria,3608
+9198,Neurologia,3609
+6811,Pediatria,3610
+6222,Cardiologia,3611
+2678,Oncologia,3612
+3297,Neurologia,3613
+4816,Neurologia,3614
+4473,Oncologia,3615
+6391,Ortopedia,3616
+7999,UTI,3617
+6822,Ortopedia,3618
+7417,Oncologia,3619
+7209,Cirurgia Geral,3620
+8932,Neurologia,3621
+7554,Neurologia,3622
+6686,Cardiologia,3623
+4677,UTI,3624
+2111,UTI,3625
+4623,Pediatria,3626
+1820,Cirurgia Geral,3627
+9537,Oncologia,3628
+3706,Oncologia,3629
+3081,Cirurgia Geral,3630
+4517,Cirurgia Geral,3631
+7816,Ortopedia,3632
+7517,Pediatria,3633
+3063,Neurologia,3634
+4449,Pediatria,3635
+8145,Cardiologia,3636
+8200,Ortopedia,3637
+5681,Neurologia,3638
+7267,Pediatria,3639
+7876,Cirurgia Geral,3640
+2074,Cirurgia Geral,3641
+7264,Ortopedia,3642
+4790,Pediatria,3643
+7112,Cardiologia,3644
+5352,Neurologia,3645
+9969,Cirurgia Geral,3646
+3871,UTI,3647
+3812,Pediatria,3648
+3698,Clínica Médica,3649
+1631,Oncologia,3650
+9956,Clínica Médica,3651
+4751,Neurologia,3652
+7507,Cirurgia Geral,3653
+5938,Oncologia,3654
+4446,Cardiologia,3655
+9406,Ortopedia,3656
+9088,Pediatria,3657
+1825,Neurologia,3658
+5027,Ortopedia,3659
+6082,Ortopedia,3660
+9557,UTI,3661
+6597,Neurologia,3662
+6561,Cardiologia,3663
+9987,Cardiologia,3664
+1090,UTI,3665
+8178,Cirurgia Geral,3666
+3056,Ortopedia,3667
+6563,Cardiologia,3668
+6647,Neurologia,3669
+8796,Cirurgia Geral,3670
+8784,UTI,3671
+6221,UTI,3672
+2178,Neurologia,3673
+3218,Ortopedia,3674
+1782,Neurologia,3675
+8553,Neurologia,3676
+8779,Clínica Médica,3677
+9867,Pediatria,3678
+5788,UTI,3679
+6724,Cardiologia,3680
+8429,UTI,3681
+8804,Pediatria,3682
+5786,Neurologia,3683
+3784,UTI,3684
+1839,Ortopedia,3685
+2525,Oncologia,3686
+8016,Oncologia,3687
+9693,Clínica Médica,3688
+8007,Cirurgia Geral,3689
+9212,Cirurgia Geral,3690
+8373,Cirurgia Geral,3691
+7970,Neurologia,3692
+8886,UTI,3693
+6880,Pediatria,3694
+1733,Cirurgia Geral,3695
+2968,UTI,3696
+2168,Neurologia,3697
+6499,Ortopedia,3698
+2675,Neurologia,3699
+9794,Cardiologia,3700
+7340,Pediatria,3701
+2375,Cirurgia Geral,3702
+7075,Clínica Médica,3703
+9072,Clínica Médica,3704
+9608,Ortopedia,3705
+3350,Cardiologia,3706
+8356,Clínica Médica,3707
+2339,Pediatria,3708
+1741,UTI,3709
+9907,Cirurgia Geral,3710
+1519,Oncologia,3711
+9333,Ortopedia,3712
+8025,Clínica Médica,3713
+5736,Ortopedia,3714
+4119,Pediatria,3715
+8411,Ortopedia,3716
+7665,Cardiologia,3717
+7412,Cirurgia Geral,3718
+9679,Cirurgia Geral,3719
+6266,Oncologia,3720
+1913,Ortopedia,3721
+1340,Clínica Médica,3722
+6899,Pediatria,3723
+8926,Pediatria,3724
+6240,Neurologia,3725
+8813,Pediatria,3726
+7365,UTI,3727
+4465,Clínica Médica,3728
+3438,Ortopedia,3729
+7565,Neurologia,3730
+1716,Ortopedia,3731
+9507,Pediatria,3732
+7494,Oncologia,3733
+1665,UTI,3734
+2587,Neurologia,3735
+5793,Clínica Médica,3736
+3166,Pediatria,3737
+6335,Pediatria,3738
+8000,Pediatria,3739
+4475,Neurologia,3740
+7772,Oncologia,3741
+1138,Clínica Médica,3742
+6765,Neurologia,3743
+8681,Neurologia,3744
+1496,Neurologia,3745
+8864,UTI,3746
+7111,Cardiologia,3747
+2848,UTI,3748
+7078,Cirurgia Geral,3749
+3473,Neurologia,3750
+1340,UTI,3751
+6033,UTI,3752
+5975,Oncologia,3753
+5523,Neurologia,3754
+3083,UTI,3755
+2399,Cardiologia,3756
+7915,Neurologia,3757
+8827,Neurologia,3758
+8315,Clínica Médica,3759
+2170,Neurologia,3760
+8012,UTI,3761
+8890,Pediatria,3762
+7165,Cirurgia Geral,3763
+7563,Pediatria,3764
+6948,Neurologia,3765
+6486,UTI,3766
+8229,Neurologia,3767
+7629,UTI,3768
+4634,Pediatria,3769
+8100,Ortopedia,3770
+3169,Clínica Médica,3771
+2186,Clínica Médica,3772
+4363,Clínica Médica,3773
+3662,UTI,3774
+5405,Pediatria,3775
+1102,Ortopedia,3776
+6240,Ortopedia,3777
+9745,Pediatria,3778
+4712,Pediatria,3779
+9062,Clínica Médica,3780
+3125,Clínica Médica,3781
+3740,Neurologia,3782
+5519,Neurologia,3783
+8564,Neurologia,3784
+5291,UTI,3785
+1468,Ortopedia,3786
+1151,Ortopedia,3787
+3487,Clínica Médica,3788
+4589,Cirurgia Geral,3789
+2064,Clínica Médica,3790
+5919,Oncologia,3791
+6466,UTI,3792
+5738,Ortopedia,3793
+1747,Neurologia,3794
+4386,Ortopedia,3795
+1863,Ortopedia,3796
+6632,Clínica Médica,3797
+3720,Clínica Médica,3798
+2629,UTI,3799
+8594,UTI,3800
+3488,Cirurgia Geral,3801
+5426,UTI,3802
+4850,Cirurgia Geral,3803
+9161,UTI,3804
+1885,Clínica Médica,3805
+6685,Neurologia,3806
+1798,UTI,3807
+2537,Neurologia,3808
+3262,Pediatria,3809
+4207,Pediatria,3810
+1760,Ortopedia,3811
+1793,Neurologia,3812
+9531,Oncologia,3813
+2954,Neurologia,3814
+3729,Cirurgia Geral,3815
+7211,Neurologia,3816
+6360,UTI,3817
+5556,Clínica Médica,3818
+2220,Cirurgia Geral,3819
+5081,Cardiologia,3820
+3466,Ortopedia,3821
+6853,Cardiologia,3822
+2760,Clínica Médica,3823
+5303,Cirurgia Geral,3824
+2185,Cardiologia,3825
+6515,Pediatria,3826
+9869,Pediatria,3827
+4090,Pediatria,3828
+1460,Ortopedia,3829
+7542,Ortopedia,3830
+2179,Cirurgia Geral,3831
+4507,Cirurgia Geral,3832
+9403,Cardiologia,3833
+3081,Clínica Médica,3834
+8774,Oncologia,3835
+5360,Cirurgia Geral,3836
+6286,Pediatria,3837
+8817,Ortopedia,3838
+1202,Oncologia,3839
+8683,Clínica Médica,3840
+2649,Cirurgia Geral,3841
+7248,Clínica Médica,3842
+6422,UTI,3843
+4472,Pediatria,3844
+4431,Oncologia,3845
+6548,Cirurgia Geral,3846
+9792,Ortopedia,3847
+5425,UTI,3848
+9308,Oncologia,3849
+3523,UTI,3850
+6542,Cardiologia,3851
+9894,Ortopedia,3852
+7862,Oncologia,3853
+6000,Cirurgia Geral,3854
+7135,Ortopedia,3855
+4574,Ortopedia,3856
+6940,Oncologia,3857
+8477,Neurologia,3858
+1570,Cirurgia Geral,3859
+8095,Neurologia,3860
+6132,Cirurgia Geral,3861
+7476,Pediatria,3862
+4687,Cardiologia,3863
+9651,Clínica Médica,3864
+7324,Cardiologia,3865
+1999,Oncologia,3866
+6913,Oncologia,3867
+6091,Ortopedia,3868
+5481,Clínica Médica,3869
+7945,Ortopedia,3870
+5685,Cardiologia,3871
+4017,Cardiologia,3872
+2942,Ortopedia,3873
+2253,Cardiologia,3874
+1353,Cirurgia Geral,3875
+5291,Pediatria,3876
+1441,Clínica Médica,3877
+8466,Ortopedia,3878
+1828,UTI,3879
+4663,Clínica Médica,3880
+9706,Cirurgia Geral,3881
+2463,Cirurgia Geral,3882
+6019,Pediatria,3883
+2483,Cardiologia,3884
+3882,Cardiologia,3885
+8337,Oncologia,3886
+6319,Cirurgia Geral,3887
+6203,Neurologia,3888
+9235,UTI,3889
+5302,Cirurgia Geral,3890
+2044,Cirurgia Geral,3891
+9773,UTI,3892
+9051,UTI,3893
+1356,Oncologia,3894
+5428,Neurologia,3895
+4138,Oncologia,3896
+3651,Cirurgia Geral,3897
+6039,UTI,3898
+8064,Pediatria,3899
+2708,Neurologia,3900
+7602,Cirurgia Geral,3901
+1946,Cirurgia Geral,3902
+1959,Cirurgia Geral,3903
+2193,Oncologia,3904
+6930,Neurologia,3905
+3370,Neurologia,3906
+7185,Oncologia,3907
+8564,Pediatria,3908
+6209,Cirurgia Geral,3909
+7465,Clínica Médica,3910
+9722,UTI,3911
+7056,Ortopedia,3912
+9084,UTI,3913
+7667,UTI,3914
+6841,Clínica Médica,3915
+7393,Neurologia,3916
+2822,Clínica Médica,3917
+7441,Neurologia,3918
+5542,Ortopedia,3919
+1127,Oncologia,3920
+7218,Neurologia,3921
+7674,Neurologia,3922
+7371,Clínica Médica,3923
+2435,Cirurgia Geral,3924
+5343,UTI,3925
+6615,Ortopedia,3926
+2053,Neurologia,3927
+9000,Clínica Médica,3928
+2760,Cirurgia Geral,3929
+2589,Oncologia,3930
+6819,UTI,3931
+5198,UTI,3932
+5184,Neurologia,3933
+4155,Neurologia,3934
+3626,Oncologia,3935
+6474,Pediatria,3936
+4581,Cirurgia Geral,3937
+9226,Oncologia,3938
+5004,Cirurgia Geral,3939
+7406,Pediatria,3940
+5175,Oncologia,3941
+2243,Ortopedia,3942
+3606,Cirurgia Geral,3943
+2123,UTI,3944
+5844,UTI,3945
+9360,Pediatria,3946
+2264,Cardiologia,3947
+7218,Cirurgia Geral,3948
+3629,Cardiologia,3949
+9192,UTI,3950
+8057,Pediatria,3951
+9241,Cardiologia,3952
+8606,Cardiologia,3953
+3983,Oncologia,3954
+3696,Clínica Médica,3955
+4481,Cirurgia Geral,3956
+3067,Cardiologia,3957
+8395,Oncologia,3958
+5612,Cirurgia Geral,3959
+7036,Neurologia,3960
+8361,Ortopedia,3961
+5934,Ortopedia,3962
+3708,Cardiologia,3963
+9237,Clínica Médica,3964
+7083,Pediatria,3965
+1623,Cardiologia,3966
+9846,Pediatria,3967
+9651,UTI,3968
+8132,Clínica Médica,3969
+1148,Pediatria,3970
+4229,Pediatria,3971
+3746,Cardiologia,3972
+5235,Neurologia,3973
+3997,Ortopedia,3974
+9393,Ortopedia,3975
+9374,Cirurgia Geral,3976
+4198,Neurologia,3977
+6180,Ortopedia,3978
+7247,Pediatria,3979
+9557,Cirurgia Geral,3980
+9366,Pediatria,3981
+3798,Clínica Médica,3982
+6190,Cirurgia Geral,3983
+5785,Ortopedia,3984
+7276,UTI,3985
+5513,Ortopedia,3986
+2941,UTI,3987
+3177,Cardiologia,3988
+5689,Cardiologia,3989
+4363,Cirurgia Geral,3990
+5566,Ortopedia,3991
+4603,Cardiologia,3992
+9516,Neurologia,3993
+3209,Neurologia,3994
+7596,Pediatria,3995
+4150,Clínica Médica,3996
+9269,Cirurgia Geral,3997
+2050,Pediatria,3998
+3127,Neurologia,3999
+2818,Oncologia,4000
+4376,Ortopedia,4001
+9240,UTI,4002
+7048,Cardiologia,4003
+9507,Clínica Médica,4004
+2873,Oncologia,4005
+6922,UTI,4006
+4601,Oncologia,4007
+6808,Ortopedia,4008
+4296,Oncologia,4009
+5063,Oncologia,4010
+2144,Clínica Médica,4011
+3237,Clínica Médica,4012
+2812,Clínica Médica,4013
+5358,Clínica Médica,4014
+9010,Cirurgia Geral,4015
+3769,Cirurgia Geral,4016
+1509,Cardiologia,4017
+3719,Clínica Médica,4018
+3270,Cirurgia Geral,4019
+8129,Oncologia,4020
+8344,Cirurgia Geral,4021
+2838,Clínica Médica,4022
+8568,Neurologia,4023
+9461,Clínica Médica,4024
+2001,Neurologia,4025
+6605,Cirurgia Geral,4026
+8889,Cirurgia Geral,4027
+1853,Cirurgia Geral,4028
+6516,Clínica Médica,4029
+7514,UTI,4030
+8350,Cardiologia,4031
+7493,Cardiologia,4032
+8295,Clínica Médica,4033
+9229,UTI,4034
+1197,Cardiologia,4035
+7979,Cirurgia Geral,4036
+5515,Neurologia,4037
+4070,Cirurgia Geral,4038
+3727,Neurologia,4039
+3784,Neurologia,4040
+2373,Cardiologia,4041
+1093,Neurologia,4042
+1467,Cardiologia,4043
+3090,Ortopedia,4044
+1805,Cirurgia Geral,4045
+1695,Neurologia,4046
+4825,Cirurgia Geral,4047
+5440,Ortopedia,4048
+9976,Cirurgia Geral,4049
+5860,Cardiologia,4050
+2127,Cirurgia Geral,4051
+9595,Oncologia,4052
+2882,Ortopedia,4053
+1420,Cardiologia,4054
+5873,UTI,4055
+4884,Pediatria,4056
+7956,UTI,4057
+9556,Neurologia,4058
+5678,Pediatria,4059
+1438,Cardiologia,4060
+5957,Clínica Médica,4061
+6668,Ortopedia,4062
+1685,Cirurgia Geral,4063
+9362,Neurologia,4064
+6497,Pediatria,4065
+5929,Clínica Médica,4066
+8076,Cirurgia Geral,4067
+3815,Cirurgia Geral,4068
+8452,Clínica Médica,4069
+2743,Neurologia,4070
+2776,Oncologia,4071
+8303,Oncologia,4072
+7251,Cirurgia Geral,4073
+6398,Ortopedia,4074
+7962,UTI,4075
+6876,Neurologia,4076
+7226,UTI,4077
+4729,Clínica Médica,4078
+3450,Cirurgia Geral,4079
+8544,Cirurgia Geral,4080
+8233,Oncologia,4081
+8669,UTI,4082
+6177,Neurologia,4083
+7818,UTI,4084
+3055,Ortopedia,4085
+2028,Pediatria,4086
+9344,Clínica Médica,4087
+2312,Neurologia,4088
+2577,Clínica Médica,4089
+7951,Oncologia,4090
+8837,Cardiologia,4091
+8357,UTI,4092
+3829,Oncologia,4093
+9412,Neurologia,4094
+3545,UTI,4095
+5819,Ortopedia,4096
+9841,Cardiologia,4097
+9492,UTI,4098
+2499,Pediatria,4099
+2887,Ortopedia,4100
+6159,Ortopedia,4101
+5511,Cirurgia Geral,4102
+8401,Clínica Médica,4103
+4854,Oncologia,4104
+4808,Neurologia,4105
+2810,Neurologia,4106
+8529,Cirurgia Geral,4107
+5538,Clínica Médica,4108
+5891,Oncologia,4109
+1530,Clínica Médica,4110
+6311,Cirurgia Geral,4111
+6462,Ortopedia,4112
+7171,Pediatria,4113
+6271,Clínica Médica,4114
+6847,Pediatria,4115
+4865,Clínica Médica,4116
+7510,UTI,4117
+3744,Pediatria,4118
+5099,Cardiologia,4119
+6369,Ortopedia,4120
+1830,Clínica Médica,4121
+3961,UTI,4122
+1339,Cirurgia Geral,4123
+8317,Cardiologia,4124
+9813,Cirurgia Geral,4125
+6948,Oncologia,4126
+6050,Oncologia,4127
+2517,Cardiologia,4128
+5202,Oncologia,4129
+1258,Cardiologia,4130
+4254,Cirurgia Geral,4131
+7263,Pediatria,4132
+9471,Oncologia,4133
+8234,Ortopedia,4134
+6200,Oncologia,4135
+8430,Cirurgia Geral,4136
+1087,Clínica Médica,4137
+4650,Oncologia,4138
+6011,Ortopedia,4139
+4373,Neurologia,4140
+1734,Clínica Médica,4141
+9023,UTI,4142
+1256,Neurologia,4143
+7806,Cirurgia Geral,4144
+9576,UTI,4145
+5026,Cardiologia,4146
+8300,Oncologia,4147
+5346,Pediatria,4148
+3647,Oncologia,4149
+6894,Clínica Médica,4150
+8423,Cirurgia Geral,4151
+5852,Neurologia,4152
+4141,Oncologia,4153
+3801,UTI,4154
+3752,UTI,4155
+1632,Pediatria,4156
+9350,UTI,4157
+4202,Cirurgia Geral,4158
+8957,Ortopedia,4159
+4989,Clínica Médica,4160
+2814,Cirurgia Geral,4161
+6070,Clínica Médica,4162
+3314,Cardiologia,4163
+3175,UTI,4164
+9399,Oncologia,4165
+4500,Neurologia,4166
+9257,Pediatria,4167
+3760,UTI,4168
+3063,Ortopedia,4169
+3358,Neurologia,4170
+3360,Cirurgia Geral,4171
+2226,Oncologia,4172
+7928,Pediatria,4173
+2060,Cardiologia,4174
+1277,Ortopedia,4175
+2148,Pediatria,4176
+8617,Oncologia,4177
+1429,Pediatria,4178
+8299,Clínica Médica,4179
+1518,Oncologia,4180
+9640,Neurologia,4181
+6683,Clínica Médica,4182
+3225,Cardiologia,4183
+5365,Neurologia,4184
+7141,Ortopedia,4185
+6774,Pediatria,4186
+5269,Pediatria,4187
+6359,Neurologia,4188
+2526,Oncologia,4189
+7824,Clínica Médica,4190
+8563,Clínica Médica,4191
+5136,Neurologia,4192
+5392,UTI,4193
+6921,Cirurgia Geral,4194
+1930,Pediatria,4195
+9918,Neurologia,4196
+2143,Cardiologia,4197
+9459,UTI,4198
+8517,UTI,4199
+6548,UTI,4200
+7142,Cirurgia Geral,4201
+5829,Oncologia,4202
+3374,Oncologia,4203
+5289,Ortopedia,4204
+9609,Pediatria,4205
+9371,UTI,4206
+4327,UTI,4207
+5156,Pediatria,4208
+2802,UTI,4209
+3813,Clínica Médica,4210
+8178,Ortopedia,4211
+7319,Cardiologia,4212
+6534,Pediatria,4213
+8727,Cirurgia Geral,4214
+6286,Ortopedia,4215
+7725,Neurologia,4216
+2623,Cirurgia Geral,4217
+1302,Clínica Médica,4218
+5948,Oncologia,4219
+6639,Oncologia,4220
+2813,Neurologia,4221
+4423,Ortopedia,4222
+9324,Clínica Médica,4223
+9929,Cardiologia,4224
+1448,Oncologia,4225
+7737,Pediatria,4226
+7239,Ortopedia,4227
+2793,Pediatria,4228
+2154,Cirurgia Geral,4229
+3796,Cirurgia Geral,4230
+7392,Clínica Médica,4231
+7269,Pediatria,4232
+5670,Pediatria,4233
+6261,Oncologia,4234
+1655,Oncologia,4235
+3222,UTI,4236
+6485,UTI,4237
+5603,Oncologia,4238
+9574,Neurologia,4239
+2126,Pediatria,4240
+6030,Neurologia,4241
+4918,Cardiologia,4242
+6185,Ortopedia,4243
+9515,Neurologia,4244
+2368,Clínica Médica,4245
+1345,Clínica Médica,4246
+7729,UTI,4247
+7779,UTI,4248
+9265,Pediatria,4249
+3839,Cardiologia,4250
+2601,Ortopedia,4251
+6447,Pediatria,4252
+3987,Ortopedia,4253
+4214,Oncologia,4254
+1121,Ortopedia,4255
+1552,Neurologia,4256
+7090,Cirurgia Geral,4257
+4605,Pediatria,4258
+5336,Pediatria,4259
+1233,Pediatria,4260
+7717,Pediatria,4261
+1613,Oncologia,4262
+8358,Cirurgia Geral,4263
+2601,Cirurgia Geral,4264
+9942,Oncologia,4265
+1639,Cardiologia,4266
+3513,Clínica Médica,4267
+9013,UTI,4268
+6164,Cardiologia,4269
+8942,Cardiologia,4270
+8651,Cirurgia Geral,4271
+2795,Cardiologia,4272
+4804,Ortopedia,4273
+4295,Pediatria,4274
+3572,Oncologia,4275
+3783,Ortopedia,4276
+1040,UTI,4277
+9018,Oncologia,4278
+8594,Cardiologia,4279
+6749,Cirurgia Geral,4280
+9150,Clínica Médica,4281
+2877,Cardiologia,4282
+8395,Clínica Médica,4283
+6535,Oncologia,4284
+2070,Pediatria,4285
+2309,Oncologia,4286
+3529,UTI,4287
+8155,Cardiologia,4288
+4776,Neurologia,4289
+2016,Cirurgia Geral,4290
+7789,Pediatria,4291
+3688,UTI,4292
+3222,Oncologia,4293
+6946,Cardiologia,4294
+1643,Pediatria,4295
+3368,Clínica Médica,4296
+7623,Clínica Médica,4297
+3876,Clínica Médica,4298
+4060,Cirurgia Geral,4299
+2764,Cardiologia,4300
+1783,Pediatria,4301
+1156,Pediatria,4302
+4654,Cardiologia,4303
+8465,Oncologia,4304
+7883,Clínica Médica,4305
+9495,Ortopedia,4306
+8196,UTI,4307
+8291,UTI,4308
+6164,Clínica Médica,4309
+3139,Clínica Médica,4310
+5747,Cardiologia,4311
+5385,Clínica Médica,4312
+6546,Ortopedia,4313
+3214,Pediatria,4314
+5381,Cardiologia,4315
+5640,Cirurgia Geral,4316
+6943,Cardiologia,4317
+6460,Ortopedia,4318
+5218,Cirurgia Geral,4319
+6252,UTI,4320
+1329,Oncologia,4321
+4484,Clínica Médica,4322
+4758,Cirurgia Geral,4323
+6312,Neurologia,4324
+9886,Neurologia,4325
+5965,Clínica Médica,4326
+5141,Cirurgia Geral,4327
+6336,Cirurgia Geral,4328
+4758,Ortopedia,4329
+6924,Oncologia,4330
+7075,Oncologia,4331
+4571,Oncologia,4332
+5740,Clínica Médica,4333
+7875,Pediatria,4334
+1072,Cardiologia,4335
+2095,Cardiologia,4336
+3092,Clínica Médica,4337
+6726,Oncologia,4338
+1958,Pediatria,4339
+9873,Cirurgia Geral,4340
+2175,Cirurgia Geral,4341
+6659,Neurologia,4342
+1463,Pediatria,4343
+9812,Cirurgia Geral,4344
+1458,Cardiologia,4345
+8769,Ortopedia,4346
+1888,UTI,4347
+1965,Cirurgia Geral,4348
+8051,Oncologia,4349
+3008,Ortopedia,4350
+4484,Ortopedia,4351
+9254,Cirurgia Geral,4352
+1355,Cirurgia Geral,4353
+9032,Cirurgia Geral,4354
+9939,Ortopedia,4355
+6437,Cirurgia Geral,4356
+4261,Neurologia,4357
+2128,Neurologia,4358
+9147,Cirurgia Geral,4359
+3390,Cirurgia Geral,4360
+1571,Neurologia,4361
+8418,Clínica Médica,4362
+3405,Pediatria,4363
+4883,UTI,4364
+5198,Clínica Médica,4365
+7798,Cardiologia,4366
+4551,Clínica Médica,4367
+9898,UTI,4368
+2352,Oncologia,4369
+7980,Pediatria,4370
+4115,Pediatria,4371
+8364,Ortopedia,4372
+1166,Cardiologia,4373
+7790,Cirurgia Geral,4374
+8917,UTI,4375
+5146,UTI,4376
+1726,Clínica Médica,4377
+1695,Oncologia,4378
+3422,UTI,4379
+3552,Cardiologia,4380
+9683,Neurologia,4381
+1641,UTI,4382
+4698,Cardiologia,4383
+8946,Cirurgia Geral,4384
+3570,Oncologia,4385
+1479,Clínica Médica,4386
+4117,Pediatria,4387
+4615,Oncologia,4388
+2914,Neurologia,4389
+6357,Neurologia,4390
+7602,Neurologia,4391
+2606,Clínica Médica,4392
+2972,Clínica Médica,4393
+1526,Clínica Médica,4394
+8490,UTI,4395
+3160,UTI,4396
+2150,Cirurgia Geral,4397
+8650,Neurologia,4398
+9866,Clínica Médica,4399
+3511,Ortopedia,4400
+3300,Cardiologia,4401
+1894,Cardiologia,4402
+4311,Pediatria,4403
+6101,UTI,4404
+2553,Neurologia,4405
+9937,Clínica Médica,4406
+1339,Oncologia,4407
+4208,Neurologia,4408
+8812,Pediatria,4409
+2311,UTI,4410
+1531,Pediatria,4411
+9053,Oncologia,4412
+1151,UTI,4413
+4326,Pediatria,4414
+9658,Cirurgia Geral,4415
+6301,Pediatria,4416
+8252,Cardiologia,4417
+7138,Cirurgia Geral,4418
+1669,Pediatria,4419
+6671,UTI,4420
+7666,Neurologia,4421
+9389,Ortopedia,4422
+2218,Cardiologia,4423
+3442,Cirurgia Geral,4424
+1589,Cardiologia,4425
+4196,Cirurgia Geral,4426
+8237,Neurologia,4427
+7077,Cardiologia,4428
+6265,Ortopedia,4429
+1073,UTI,4430
+9981,Neurologia,4431
+2468,Cardiologia,4432
+2485,Clínica Médica,4433
+6063,Neurologia,4434
+1535,Pediatria,4435
+4483,Ortopedia,4436
+1759,Oncologia,4437
+5388,Ortopedia,4438
+2422,UTI,4439
+6650,Oncologia,4440
+3164,Oncologia,4441
+9879,Pediatria,4442
+5869,Cirurgia Geral,4443
+8095,Cardiologia,4444
+1458,Pediatria,4445
+3769,Pediatria,4446
+3202,UTI,4447
+6369,Neurologia,4448
+9743,Cirurgia Geral,4449
+9728,Pediatria,4450
+1625,Cirurgia Geral,4451
+6114,Cirurgia Geral,4452
+7568,Pediatria,4453
+1644,Clínica Médica,4454
+3649,Ortopedia,4455
+6523,Cardiologia,4456
+7241,Oncologia,4457
+9328,Ortopedia,4458
+2951,Cirurgia Geral,4459
+9070,Clínica Médica,4460
+2147,UTI,4461
+5276,UTI,4462
+9272,Pediatria,4463
+7387,Cardiologia,4464
+2861,Oncologia,4465
+5925,Clínica Médica,4466
+2392,Ortopedia,4467
+3019,Oncologia,4468
+1452,Ortopedia,4469
+4705,Neurologia,4470
+6102,Clínica Médica,4471
+1831,Clínica Médica,4472
+2529,Cardiologia,4473
+8226,Pediatria,4474
+7862,Neurologia,4475
+2430,Cirurgia Geral,4476
+7882,Clínica Médica,4477
+6196,Cirurgia Geral,4478
+8435,Oncologia,4479
+3305,Clínica Médica,4480
+9604,Cardiologia,4481
+4290,UTI,4482
+4587,Ortopedia,4483
+1797,Cardiologia,4484
+8718,Ortopedia,4485
+1934,UTI,4486
+7298,Neurologia,4487
+2878,Neurologia,4488
+2925,UTI,4489
+2516,Pediatria,4490
+9070,Cardiologia,4491
+8608,Neurologia,4492
+9206,Neurologia,4493
+1489,Cirurgia Geral,4494
+9665,UTI,4495
+6629,Pediatria,4496
+1554,Neurologia,4497
+9866,Cirurgia Geral,4498
+5509,Ortopedia,4499
+1562,Clínica Médica,4500
+7960,Cirurgia Geral,4501
+1961,Neurologia,4502
+8890,UTI,4503
+9328,Oncologia,4504
+4914,Ortopedia,4505
+9857,Neurologia,4506
+3434,Cardiologia,4507
+1424,Clínica Médica,4508
+8320,Oncologia,4509
+3088,Clínica Médica,4510
+3631,Oncologia,4511
+5596,Cirurgia Geral,4512
+5201,Cardiologia,4513
+2121,UTI,4514
+9426,Cirurgia Geral,4515
+9094,Oncologia,4516
+5651,Neurologia,4517
+2791,Pediatria,4518
+1301,Pediatria,4519
+6952,Ortopedia,4520
+8658,Ortopedia,4521
+2462,Clínica Médica,4522
+6959,Cardiologia,4523
+2630,Ortopedia,4524
+1884,Clínica Médica,4525
+8630,UTI,4526
+5025,Ortopedia,4527
+7074,Cirurgia Geral,4528
+7697,Clínica Médica,4529
+9966,Neurologia,4530
+8012,Oncologia,4531
+4423,Pediatria,4532
+1053,Oncologia,4533
+1768,Cirurgia Geral,4534
+3009,UTI,4535
+4558,Neurologia,4536
+9698,Ortopedia,4537
+8970,Ortopedia,4538
+9451,Cardiologia,4539
+2085,Pediatria,4540
+1153,Oncologia,4541
+3542,Clínica Médica,4542
+4435,Clínica Médica,4543
+2890,Neurologia,4544
+7337,Pediatria,4545
+4325,Pediatria,4546
+8063,UTI,4547
+8100,Cardiologia,4548
+9788,Cardiologia,4549
+3951,Pediatria,4550
+9506,Oncologia,4551
+7595,Clínica Médica,4552
+1769,Neurologia,4553
+4094,Ortopedia,4554
+9166,Cardiologia,4555
+7749,Cirurgia Geral,4556
+1548,Pediatria,4557
+1146,Clínica Médica,4558
+7784,Pediatria,4559
+5179,UTI,4560
+8417,UTI,4561
+5711,Pediatria,4562
+1140,Neurologia,4563
+3121,Cardiologia,4564
+9442,Clínica Médica,4565
+9212,Ortopedia,4566
+7575,Ortopedia,4567
+4218,Cardiologia,4568
+9965,UTI,4569
+9501,Pediatria,4570
+3379,Cirurgia Geral,4571
+4972,Cirurgia Geral,4572
+8383,Neurologia,4573
+7063,Pediatria,4574
+2845,Cirurgia Geral,4575
+8234,Clínica Médica,4576
+8194,Oncologia,4577
+4555,Neurologia,4578
+1577,Oncologia,4579
+9123,Clínica Médica,4580
+9772,Cirurgia Geral,4581
+2745,Neurologia,4582
+2534,UTI,4583
+1107,Cardiologia,4584
+8666,Cirurgia Geral,4585
+6292,UTI,4586
+8323,Oncologia,4587
+4849,Cardiologia,4588
+1161,Clínica Médica,4589
+3152,Cirurgia Geral,4590
+6278,UTI,4591
+3688,Neurologia,4592
+1705,Clínica Médica,4593
+3364,Cirurgia Geral,4594
+5345,Neurologia,4595
+2272,Neurologia,4596
+5725,Oncologia,4597
+5188,Neurologia,4598
+7247,Ortopedia,4599
+6701,Ortopedia,4600
+2854,Oncologia,4601
+8394,Clínica Médica,4602
+8199,Cirurgia Geral,4603
+8204,Ortopedia,4604
+3253,Cirurgia Geral,4605
+9494,Cirurgia Geral,4606
+7067,Pediatria,4607
+7506,Clínica Médica,4608
+9766,Clínica Médica,4609
+7576,UTI,4610
+9973,UTI,4611
+3440,Ortopedia,4612
+8217,Cardiologia,4613
+5695,UTI,4614
+8573,Cardiologia,4615
+4164,Oncologia,4616
+8505,UTI,4617
+2760,Pediatria,4618
+5286,Clínica Médica,4619
+3764,Oncologia,4620
+6893,Oncologia,4621
+7554,Oncologia,4622
+2800,Pediatria,4623
+4571,Cirurgia Geral,4624
+8425,UTI,4625
+9239,Clínica Médica,4626
+2251,Pediatria,4627
+2813,Cardiologia,4628
+4860,Neurologia,4629
+5520,Cardiologia,4630
+5735,Neurologia,4631
+3149,Clínica Médica,4632
+7793,Neurologia,4633
+7858,UTI,4634
+3055,UTI,4635
+9406,UTI,4636
+7286,Neurologia,4637
+9994,Cardiologia,4638
+8730,Cardiologia,4639
+3321,Neurologia,4640
+4730,Oncologia,4641
+9772,Neurologia,4642
+2899,Ortopedia,4643
+3215,UTI,4644
+7627,Pediatria,4645
+1020,Oncologia,4646
+4171,Cardiologia,4647
+4821,UTI,4648
+9077,Pediatria,4649
+1484,Ortopedia,4650
+7642,Ortopedia,4651
+5614,Pediatria,4652
+7700,UTI,4653
+8201,Pediatria,4654
+9063,Cirurgia Geral,4655
+3059,Pediatria,4656
+5751,Ortopedia,4657
+1030,Ortopedia,4658
+8447,Neurologia,4659
+9953,Ortopedia,4660
+5997,Cirurgia Geral,4661
+9878,Ortopedia,4662
+8098,Clínica Médica,4663
+8230,Ortopedia,4664
+3013,Pediatria,4665
+9292,Pediatria,4666
+8569,Clínica Médica,4667
+9648,Neurologia,4668
+6452,Neurologia,4669
+1756,Cardiologia,4670
+4058,Cardiologia,4671
+2139,Pediatria,4672
+6661,Pediatria,4673
+3136,UTI,4674
+1630,UTI,4675
+7178,Pediatria,4676
+9979,Clínica Médica,4677
+4549,UTI,4678
+3133,Neurologia,4679
+2995,Oncologia,4680
+5024,UTI,4681
+4781,Clínica Médica,4682
+5014,Cardiologia,4683
+5133,Cardiologia,4684
+5992,Cardiologia,4685
+2927,Ortopedia,4686
+1178,Cirurgia Geral,4687
+3767,Neurologia,4688
+3419,UTI,4689
+1127,Cardiologia,4690
+1446,Oncologia,4691
+8365,Ortopedia,4692
+1794,Cardiologia,4693
+2761,Pediatria,4694
+5175,Cardiologia,4695
+6526,Ortopedia,4696
+6754,Pediatria,4697
+7284,Cardiologia,4698
+9529,Cardiologia,4699
+3483,Clínica Médica,4700
+3494,Pediatria,4701
+7089,Cardiologia,4702
+7572,Pediatria,4703
+9671,Cardiologia,4704
+5377,Cirurgia Geral,4705
+8234,UTI,4706
+5648,UTI,4707
+1893,Clínica Médica,4708
+9211,Cardiologia,4709
+1235,Clínica Médica,4710
+6638,UTI,4711
+6872,Pediatria,4712
+9933,Ortopedia,4713
+2962,Pediatria,4714
+7203,Clínica Médica,4715
+8870,Cardiologia,4716
+9229,Clínica Médica,4717
+7738,Neurologia,4718
+6264,Clínica Médica,4719
+5384,Clínica Médica,4720
+7074,Pediatria,4721
+9366,Neurologia,4722
+1407,Ortopedia,4723
+9227,Ortopedia,4724
+8554,Clínica Médica,4725
+1249,Neurologia,4726
+4125,Clínica Médica,4727
+1588,Pediatria,4728
+1160,Neurologia,4729
+6391,Cardiologia,4730
+2033,Ortopedia,4731
+1128,Ortopedia,4732
+6533,Neurologia,4733
+5071,Cardiologia,4734
+5893,Oncologia,4735
+2447,Clínica Médica,4736
+6311,Ortopedia,4737
+8045,Cirurgia Geral,4738
+1551,Oncologia,4739
+1649,Cardiologia,4740
+9683,Ortopedia,4741
+4419,UTI,4742
+8622,Oncologia,4743
+2226,Cardiologia,4744
+6705,Oncologia,4745
+3104,Neurologia,4746
+1640,Oncologia,4747
+4131,UTI,4748
+2283,Cirurgia Geral,4749
+2921,UTI,4750
+6699,Cirurgia Geral,4751
+1286,Clínica Médica,4752
+5040,Cirurgia Geral,4753
+6032,Pediatria,4754
+3605,Pediatria,4755
+8873,Neurologia,4756
+1939,Ortopedia,4757
+9290,Ortopedia,4758
+3691,Clínica Médica,4759
+2707,Clínica Médica,4760
+3393,Ortopedia,4761
+4148,Cirurgia Geral,4762
+4345,UTI,4763
+8098,Neurologia,4764
+3492,Clínica Médica,4765
+4054,Clínica Médica,4766
+6781,Ortopedia,4767
+2308,Cirurgia Geral,4768
+3440,Pediatria,4769
+3135,Cirurgia Geral,4770
+5766,Ortopedia,4771
+8415,Ortopedia,4772
+3359,Oncologia,4773
+8763,Ortopedia,4774
+6136,Pediatria,4775
+5319,UTI,4776
+3062,Ortopedia,4777
+9502,Cardiologia,4778
+1198,Pediatria,4779
+4824,Cirurgia Geral,4780
+9849,Oncologia,4781
+7605,Ortopedia,4782
+8104,Cirurgia Geral,4783
+4610,Ortopedia,4784
+5410,Clínica Médica,4785
+9865,Cardiologia,4786
+3757,Oncologia,4787
+9412,Cirurgia Geral,4788
+4977,Ortopedia,4789
+2815,Clínica Médica,4790
+8360,Cardiologia,4791
+1500,Oncologia,4792
+8809,UTI,4793
+2180,Pediatria,4794
+4029,Cirurgia Geral,4795
+8961,Neurologia,4796
+3005,Ortopedia,4797
+6599,Pediatria,4798
+5320,Ortopedia,4799
+4418,UTI,4800
+2010,Neurologia,4801
+6120,UTI,4802
+9352,Cirurgia Geral,4803
+7868,Oncologia,4804
+6853,Oncologia,4805
+2429,Pediatria,4806
+6138,Oncologia,4807
+9681,Cirurgia Geral,4808
+6492,Cirurgia Geral,4809
+6837,Clínica Médica,4810
+1180,Pediatria,4811
+4352,Pediatria,4812
+4534,UTI,4813
+9728,Cirurgia Geral,4814
+6968,Oncologia,4815
+5809,Ortopedia,4816
+2696,UTI,4817
+6140,UTI,4818
+7262,Clínica Médica,4819
+9256,Clínica Médica,4820
+4441,Clínica Médica,4821
+5703,Ortopedia,4822
+9099,Cardiologia,4823
+9539,Oncologia,4824
+3168,Neurologia,4825
+6822,Oncologia,4826
+5165,Pediatria,4827
+5866,Neurologia,4828
+8031,Oncologia,4829
+4379,Clínica Médica,4830
+1675,Cirurgia Geral,4831
+6211,Ortopedia,4832
+6338,UTI,4833
+9435,UTI,4834
+8780,Ortopedia,4835
+9922,Cardiologia,4836
+4758,Cardiologia,4837
+4295,Oncologia,4838
+2190,UTI,4839
+3486,Ortopedia,4840
+6041,Ortopedia,4841
+4785,Oncologia,4842
+5400,Pediatria,4843
+3299,Cirurgia Geral,4844
+8750,Clínica Médica,4845
+9913,Oncologia,4846
+7930,Ortopedia,4847
