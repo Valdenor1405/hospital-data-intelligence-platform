@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏥 Hospital Data Intelligence Platform
+# Hospital Data Intelligence Platform
 
 ### Enterprise Data Engineering • Analytics • AI • MLOps
 
@@ -174,23 +174,23 @@ The complete pipeline performs:
 
 # Features
 
-✅ Enterprise Lakehouse
+- Enterprise Lakehouse
 
-✅ Data Quality
+- Data Quality
 
-✅ Enterprise Data Warehouse
+- Enterprise Data Warehouse
 
-✅ DuckDB Analytical Database
+- DuckDB Analytical Database
 
-✅ FastAPI REST API
+- FastAPI REST API
 
-✅ Interactive Dashboard
+- Interactive Dashboard
 
-✅ Automated Tests
+- Automated Tests
 
-✅ Docker Support
+- Docker Support
 
-✅ GitHub Actions
+- GitHub Actions
 
 ---
 
@@ -274,7 +274,7 @@ python -m pytest -v
 
 # Project Roadmap
 
-## ✅ Version 1.0
+## Version 1.0
 
 - Lakehouse
 - Data Warehouse
@@ -285,7 +285,7 @@ python -m pytest -v
 
 ---
 
-## 🚧 Version 2.0
+## Version 2.0
 
 - PostgreSQL
 - SQLAlchemy
@@ -294,7 +294,7 @@ python -m pytest -v
 
 ---
 
-## 🚧 Version 3.0
+## Version 3.0
 
 - MLflow
 - SHAP
@@ -303,7 +303,7 @@ python -m pytest -v
 
 ---
 
-## 🚧 Version 4.0
+## Version 4.0
 
 - Apache Airflow
 - Kafka
@@ -312,7 +312,7 @@ python -m pytest -v
 
 ---
 
-## 🚧 Version 5.0
+## Version 5.0
 
 - Azure
 - Databricks
@@ -343,6 +343,25 @@ Current Architecture
 
 ---
 
+## Technical Notebook
+
+O projeto inclui um notebook técnico completo para facilitar a avaliação por recrutadores e equipes técnicas.
+
+Arquivo:
+
+Hospital_Data_Intelligence_Platform_Guia_Recrutador.ipynb
+
+Conteúdo:
+
+- Visão geral da arquitetura
+- Pipeline Bronze → Silver → Gold
+- Data Warehouse
+- DuckDB
+- Dashboard Enterprise
+- FastAPI
+- Roadmap do projeto
+- Tecnologias utilizadas
+
 # Author
 
 **Valdenor Filho**
@@ -365,4 +384,4 @@ MIT License
 
 ---
 
-⭐ If you like this project, consider giving it a Star.
+If you like this project, consider giving it a Star.
